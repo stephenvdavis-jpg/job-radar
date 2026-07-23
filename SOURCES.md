@@ -6,7 +6,7 @@ radar always reads public pages — no logins, no credentials.
 
 ## Automated sources
 
-### Healthcare (Melany's sweet spot)
+### Healthcare (healthcare — the target lane)
 
 | Employer | ATS | How we read it | Why it matters |
 |---|---|---|---|
@@ -25,7 +25,7 @@ radar always reads public pages — no logins, no credentials.
 |---|---|---|---|
 | State of Vermont | SAP SuccessFactors | Sitemap diff + detail pages (pay is on detail pages) | ~200 openings; AHS/Health Dept program & admin roles reliably clear $25/hr; Burlington & Waterbury postings common |
 | University of Vermont (staff) | PeopleAdmin | Atom feed (uvmjobs.com) | Highest-volume local source of program-coordinator/admin roles |
-| Champlain College | Oracle Recruiting | Public JSON API | Melany's grad school; coordinator/advisor roles |
+| Champlain College | Oracle Recruiting | Public JSON API | her grad school; coordinator/advisor roles |
 | Saint Michael's College | Oracle Recruiting | Public JSON API | Colchester; smaller but steady |
 | City of Burlington | NeoGov | Server-rendered HTML (XHR trick) | Salaries always listed, many roles $60k+ |
 | City of South Burlington | NeoGov | Same | Smaller volume |

@@ -1,6 +1,6 @@
 # Burlington VT job radar
 
-A tiny job tracker for Melany's move to the Burlington, Vermont area. Every
+A tiny job tracker for my sister's Burlington, Vermont job search. Every
 day it reads ~23 public job sources (hospital career sites, the State of
 Vermont, UVM, local boards — see [SOURCES.md](SOURCES.md)), keeps a running
 database of every listing, and writes a digest sorted into:
@@ -30,7 +30,7 @@ copies accumulate alongside it. The database is `data/jobs.json`.
 Push this repo to GitHub (private is fine) and it runs every morning at
 7 AM Eastern via `.github/workflows/radar.yml`, committing the updated
 digest back to the repo. Reading `digests/latest.md` on github.com is the
-easiest way to check it from any device — no setup on Melany's side beyond
+easiest way to check it from any device — no setup on her side beyond
 being added to the repo.
 
 To trigger a run manually: repo → Actions → "Daily job radar" → Run workflow.

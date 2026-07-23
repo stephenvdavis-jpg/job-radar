@@ -1,9 +1,6 @@
 # Job radar digest — 2026-07-23
 
-_974 open listings tracked · 1 new today (1 interesting) · 10 closed today_
-
-## 🆕 New since last run
-- **[Customer Service Associate](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5411053/customer-service-associate)** — City of Burlington · Burlington, VT · $58,406.40 - $65,062.40 (≈$28–$31/hr) · first seen 2026-07-23
+_974 open listings tracked · 0 new today (0 interesting) · 0 closed today_
 
 ## ⭐ Best matches (20)
 - **[Care Manager - AAP - Chittenden Clinic — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=96088864-fa68-402d-a5d5-73a85efcfb15)** — Howard Center · Burlington, VT · pay not listed · posted 2026-07-03 · first seen 2026-07-23
@@ -145,18 +142,6 @@ _974 open listings tracked · 1 new today (1 interesting) · 10 closed today_
 - **[Strategic Buyer - US](https://apply.workable.com/j/81F3970629)** — OnLogic · South Burlington, Vermont · $90,000 to $110,000 (≈$43–$53/hr) · posted 2026-06-12 · first seen 2026-07-23
 - **[Technical Project Manager](https://apply.workable.com/j/CBCF60678B)** — OnLogic · South Burlington, Vermont · $80,000 to $105,000 (≈$38–$50/hr) · posted 2026-07-15 · first seen 2026-07-23
 - **[Technical Project Manager, Portfolio](https://apply.workable.com/j/5E99445CE6)** — OnLogic · South Burlington, Vermont · $110,000 to $140,000 (≈$53–$67/hr) · posted 2026-06-24 · first seen 2026-07-23
-
-## ❌ Closed since last run
-- Assistant Waterfront Manager — City of Burlington
-- Assistant City Attorney — City of Burlington
-- Police Officer — City of Burlington
-- Fleet Maintenance Technician — City of Burlington
-- Emergency Communications Specialist — City of Burlington
-- Power Systems Coordinator I — City of Burlington
-- Water Distribution Field Technician — City of Burlington
-- Trusted Community Voices Liaison — City of Burlington
-- Arena Maintenance Worker — City of Burlington
-- Youth Soccer Site Coordinator — City of Burlington
 
 <details><summary>🗑 Probably skip (837 open listings that didn't fit)</summary>
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Melany's Burlington-area job radar.
+"""Burlington-area job radar.
 
 Usage:
     python3 radar.py run          # fetch all sources, update DB, write digest
@@ -21,6 +21,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from radarlib import fetchers, match, state
 from radarlib.digest import render_digest, write_digest
+from radarlib.html_digest import write_html
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SOURCES_PATH = os.path.join(ROOT, "sources.json")
@@ -159,10 +160,12 @@ def cmd_run(open_after: bool = False) -> int:
     state.save(db)
     digest_md = render_digest(db, changes_by_source, fetch_errors)
     dated, latest = write_digest(digest_md)
-    print(f"\ndigest written: {os.path.relpath(dated, ROOT)}")
+    html_path = write_html(db)
+    print(f"\ndigest written: {os.path.relpath(dated, ROOT)} "
+          f"+ {os.path.relpath(html_path, ROOT)}")
 
     if open_after:
-        subprocess.run(["open", latest], check=False)
+        subprocess.run(["open", html_path], check=False)
     # Exit nonzero only if EVERY source failed (so Actions flags real outages).
     return 1 if fetch_errors and not changes_by_source else 0
 
@@ -192,6 +195,15 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     if not args or args[0] == "run":
         sys.exit(cmd_run(open_after="--open" in args))
+    elif args[0] == "render":
+        # Re-render digest + web page from the existing database (no fetching).
+        db = state.load()
+        write_digest(render_digest(db, {}, {}))
+        path = write_html(db)
+        print(f"re-rendered {os.path.relpath(path, ROOT)}")
+        if "--open" in args:
+            subprocess.run(["open", path], check=False)
+        sys.exit(0)
     elif args[0] == "sources":
         sys.exit(cmd_sources())
     elif args[0] == "test" and len(args) > 1:

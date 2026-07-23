@@ -1,4 +1,4 @@
-"""Pay parsing, location filtering, and fit scoring for Melany's job radar.
+"""Pay parsing, location filtering, and fit scoring for the job radar.
 
 Tuning lives here: keyword lists and the town allowlist are meant to be edited
 as the radar's judgment gets calibrated against real digests.
