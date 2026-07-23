@@ -1,0 +1,181 @@
+{
+  "_comment": "Each key is a source. Set \"enabled\": false to turn one off. ATS types map to fetchers in radar/fetchers.py. location_exempt=true means don't filter by town (hybrid/remote-friendly employer).",
+  "sources": {
+    "uvmmc": {
+      "employer": "UVM Medical Center",
+      "ats": "workday",
+      "host": "uvmhealth.wd1.myworkdayjobs.com",
+      "tenant": "uvmhealth",
+      "site": "EXTERNAL",
+      "default_location": "Burlington, VT",
+      "notes": "Flagship hospital, ~130 open reqs. Best MHA pipeline in the region."
+    },
+    "uvm_hhh": {
+      "employer": "UVM Health Network Home Health & Hospice",
+      "ats": "workday",
+      "host": "uvmhealth.wd1.myworkdayjobs.com",
+      "tenant": "uvmhealth",
+      "site": "HHH",
+      "default_location": "Colchester, VT",
+      "notes": "Former VNA of Chittenden County; same Workday tenant as UVMMC."
+    },
+    "chcb": {
+      "employer": "Community Health Centers of Burlington",
+      "ats": "adp",
+      "cid": "10c256dd-20f5-4119-9c79-3044c887c4a0",
+      "default_location": "Burlington, VT",
+      "notes": "FQHC, 8 sites. Patient services / care coordination / quality roles."
+    },
+    "howard_center": {
+      "employer": "Howard Center",
+      "ats": "ukgpro",
+      "base_url": "https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b",
+      "force_location": "Burlington, VT",
+      "notes": "Largest community mental-health agency in VT. Thesis-adjacent."
+    },
+    "bcbsvt": {
+      "employer": "Blue Cross Blue Shield of Vermont",
+      "ats": "adp",
+      "cid": "c0391ed8-867c-4bc1-889e-a5e307b5d8c4",
+      "default_location": "Berlin, VT",
+      "location_exempt": true,
+      "notes": "Berlin VT office but hybrid-friendly; payer-side MHA roles."
+    },
+    "mvp": {
+      "employer": "MVP Health Care",
+      "ats": "workday",
+      "host": "mvphealthcare.wd5.myworkdayjobs.com",
+      "tenant": "mvphealthcare",
+      "site": "mvphealthcare",
+      "default_location": "Schenectady, NY",
+      "notes": "VT/NY insurer; low VT volume, remote roles will pass the filter."
+    },
+    "ppnne": {
+      "employer": "Planned Parenthood of Northern New England",
+      "ats": "lever",
+      "company": "ppnne",
+      "default_location": "Colchester, VT",
+      "notes": "Burlington-area HQ; occasional health-center manager / admin roles."
+    },
+    "lund": {
+      "employer": "Lund",
+      "ats": "generic_html",
+      "url": "https://lundvt.applytojob.com/apply/",
+      "item_regex": "<a[^>]+href=\"(?P<url>https://lundvt\\.applytojob\\.com/apply/(?P<ats_id>[A-Za-z0-9]+)/[^\"]+)\"[^>]*>(?P<title>[^<]+)</a>",
+      "default_location": "Burlington, VT",
+      "notes": "JazzHR board (no API); family-services nonprofit."
+    },
+    "vt_state": {
+      "employer": "State of Vermont",
+      "ats": "vt_state",
+      "default_location": "",
+      "notes": "SuccessFactors; jobs found via sitemap, pay parsed from detail pages. AHS/VDH admin roles are a strong fit."
+    },
+    "uvm": {
+      "employer": "University of Vermont",
+      "ats": "atom",
+      "url": "https://www.uvmjobs.com/postings/search.atom",
+      "default_location": "Burlington, VT",
+      "notes": "PeopleAdmin Atom feed; staff+faculty mixed, faculty filtered by keywords."
+    },
+    "champlain": {
+      "employer": "Champlain College",
+      "ats": "oracle_orc",
+      "tenant": "champlain-ibumjb",
+      "site": "CX_1",
+      "default_location": "Burlington, VT",
+      "notes": "Melany's grad school; Oracle Recruiting public API."
+    },
+    "stmichaels": {
+      "employer": "Saint Michael's College",
+      "ats": "oracle_orc",
+      "tenant": "stmichaels-ibukjb",
+      "site": "CX_2",
+      "default_location": "Colchester, VT",
+      "notes": "Oracle Recruiting public API."
+    },
+    "burlington_city": {
+      "employer": "City of Burlington",
+      "ats": "neogov",
+      "agency": "burlingtonvt",
+      "default_location": "Burlington, VT",
+      "notes": "NeoGov HTML; salaries always shown, many roles $67k+."
+    },
+    "south_burlington": {
+      "employer": "City of South Burlington",
+      "ats": "neogov",
+      "agency": "southburlington",
+      "default_location": "South Burlington, VT",
+      "notes": "NeoGov HTML; smaller volume."
+    },
+    "essex": {
+      "employer": "Town of Essex / Essex Junction",
+      "ats": "bamboohr",
+      "subdomain": "essexvt",
+      "default_location": "Essex Junction, VT",
+      "notes": "BambooHR JSON; low admin volume but cheap to poll."
+    },
+    "beta": {
+      "employer": "Beta Technologies",
+      "ats": "greenhouse",
+      "board_token": "betatechnologiesinc",
+      "default_location": "South Burlington, VT",
+      "notes": "Electric aviation, fast-growing; Greenhouse payload includes salary ranges."
+    },
+    "onlogic": {
+      "employer": "OnLogic",
+      "ats": "workable",
+      "account": "onlogic-inc",
+      "default_location": "South Burlington, VT",
+      "notes": "Industrial computers; HR/ops roles occasionally."
+    },
+    "globalfoundries": {
+      "employer": "GlobalFoundries",
+      "ats": "workday",
+      "host": "globalfoundries.wd1.myworkdayjobs.com",
+      "tenant": "globalfoundries",
+      "site": "External",
+      "search_text": "Essex Junction",
+      "default_location": "Essex Junction, VT",
+      "notes": "Largest private employer; mostly fab jobs but business-ops roles appear."
+    },
+    "national_life": {
+      "employer": "National Life Group",
+      "ats": "greenhouse",
+      "board_token": "nationallifeinsurancecompany",
+      "default_location": "Montpelier, VT",
+      "notes": "Montpelier (~45 min, outside core range) — only remote-tagged roles pass the filter."
+    },
+    "eastrise": {
+      "employer": "EastRise Credit Union",
+      "ats": "adp",
+      "cid": "f01b4028-1646-47ff-bc4b-89ae51a0ffc1",
+      "cc_id": "9200955339299_2",
+      "default_location": "Williston, VT",
+      "notes": "Formerly VSECU + NEFCU; ADP payload includes compensation."
+    },
+    "northcountry": {
+      "employer": "NorthCountry Federal Credit Union",
+      "ats": "generic_html",
+      "url": "https://northcountryfederalcreditunion.applytojob.com/",
+      "item_regex": "<a[^>]+href=\"(?P<url>https://northcountryfederalcreditunion\\.applytojob\\.com/apply/(?P<ats_id>[A-Za-z0-9]+)/[^\"]+)\"[^>]*>(?P<title>[^<]+)</a>",
+      "default_location": "Burlington, VT",
+      "notes": "JazzHR board; small volume."
+    },
+    "seven_days": {
+      "employer": "Seven Days Jobs (local board)",
+      "ats": "atom",
+      "url": "https://jobs.sevendaysvt.com/?feed=job_feed",
+      "default_location": "Burlington, VT",
+      "rotating_feed_days": 45,
+      "notes": "THE local job board; RSS only returns ~10 newest, so daily polling matters — jobs roll off the feed while still open, hence the 45-day expiry instead of instant 'closed'. Catches small employers with no ATS."
+    },
+    "common_good": {
+      "employer": "Common Good Vermont (nonprofit board)",
+      "ats": "wp_jobs",
+      "site": "https://commongoodvt.org",
+      "default_location": "",
+      "notes": "Statewide nonprofit job board run with United Way; WP REST API with company + salary metadata. Statewide, so commute filter does real work here."
+    }
+  }
+}
