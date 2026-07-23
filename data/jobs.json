@@ -2622,6 +2622,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5196677/public-safety-community-policing-restorative-justice-internship"
   },
   "burlington_city:5221076": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Assistant Waterfront Manager|Burlington, VT|$23.75 - $26.73",
@@ -2640,7 +2641,7 @@
    "remote": false,
    "score": 0.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Assistant Waterfront Manager",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5221076/assistant-waterfront-manager"
@@ -2670,6 +2671,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5221110/waterfront-dockmaster"
   },
   "burlington_city:5374760": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Assistant City Attorney|Burlington, VT|$101,783.98 - $113,642.34",
@@ -2687,7 +2689,7 @@
    "remote": false,
    "score": 0.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Assistant City Attorney",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5374760/assistant-city-attorney"
@@ -2717,6 +2719,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5392417/community-service-officer"
   },
   "burlington_city:5396206": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Police Officer|Burlington, VT|$81,653.10 - $95,573.09",
@@ -2734,12 +2737,13 @@
    "remote": false,
    "score": 0.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Police Officer",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5396206/police-officer"
   },
   "burlington_city:5401459": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Fleet Maintenance Technician|Burlington, VT|$65,915.20 - $73,465.60",
@@ -2757,7 +2761,7 @@
    "remote": false,
    "score": 0.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Fleet Maintenance Technician",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician"
@@ -2882,6 +2886,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404277/temporary-general-services-assistant"
   },
   "burlington_city:5404383": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Emergency Communications Specialist|Burlington, VT|$67,589.60 - $75,355.90",
@@ -2900,7 +2905,7 @@
    "remote": false,
    "score": 2.5,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "look",
    "title": "Emergency Communications Specialist",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404383/emergency-communications-specialist"
@@ -2930,6 +2935,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5407402/roaming-beach-water-quality-attendants"
   },
   "burlington_city:5408033": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Power Systems Coordinator I|Burlington, VT|$65,312.00 - $107,099.20",
@@ -2948,7 +2954,7 @@
    "remote": false,
    "score": 2.5,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "look",
    "title": "Power Systems Coordinator I",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5408033/power-systems-coordinator-i"
@@ -2978,6 +2984,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5408103/power-system-coordinator-ii"
   },
   "burlington_city:5410055": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Water Distribution Field Technician|Burlington, VT|$61,963.20 - $69,056.00",
@@ -2996,12 +3003,13 @@
    "remote": false,
    "score": 1.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "look",
    "title": "Water Distribution Field Technician",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5410055/water-distribution-field-technician"
   },
   "burlington_city:5410877": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Trusted Community Voices Liaison|Burlington, VT|$30.00",
@@ -3020,12 +3028,37 @@
    "remote": false,
    "score": 1.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "look",
    "title": "Trusted Community Voices Liaison",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5410877/trusted-community-voices-liaison"
   },
+  "burlington_city:5411053": {
+   "desc_hc": false,
+   "employer": "City of Burlington",
+   "fingerprint": "Customer Service Associate|Burlington, VT|$58,406.40 - $65,062.40",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "location": "Burlington, VT",
+   "pay_checked": false,
+   "pay_max_hr": 31.28,
+   "pay_min_hr": 28.08,
+   "pay_raw": "$58,406.40 - $65,062.40",
+   "posted_at": null,
+   "reasons": [
+    "title outside target keywords",
+    "meets pay floor"
+   ],
+   "remote": false,
+   "score": 1.0,
+   "source": "burlington_city",
+   "status": "open",
+   "tier": "look",
+   "title": "Customer Service Associate",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5411053/customer-service-associate"
+  },
   "burlington_city:5414339": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Arena Maintenance Worker|Burlington, VT|$58,406.40 - $65,062.40",
@@ -3043,7 +3076,7 @@
    "remote": false,
    "score": 0.0,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Arena Maintenance Worker",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5414339/arena-maintenance-worker"
@@ -3073,6 +3106,7 @@
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5417141/tween-teen-librarian"
   },
   "burlington_city:5417170": {
+   "closed_on": "2026-07-23",
    "desc_hc": false,
    "employer": "City of Burlington",
    "fingerprint": "Youth Soccer Site Coordinator|Burlington, VT|$20.15 - $21.15",
@@ -3091,7 +3125,7 @@
    "remote": false,
    "score": 1.5,
    "source": "burlington_city",
-   "status": "open",
+   "status": "closed",
    "tier": "skip",
    "title": "Youth Soccer Site Coordinator",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5417170/youth-soccer-site-coordinator"
