@@ -1,18 +1,18 @@
-# Job radar digest — 2026-10-15
+# Job radar digest — 2026-10-16
 
-_1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
+_1280 open listings tracked · 36 new today (8 interesting) · 29 closed today_
 
 ## 🆕 New since last run
-- **[Community and Belonging Program Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5507547/community-and-belonging-program-manager)** — City of Burlington · Burlington, VT · $81,099.20 - $90,480.00 (≈$39–$44/hr) · first seen 2026-10-07
-- **[CAPS Administrative Coordinator/Patient Services Representative](https://www.uvmjobs.com/postings/88563)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-14 · first seen 2026-10-15
-- **[Emergency Communications Specialist](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5497476/emergency-communications-specialist)** — City of Burlington · Burlington, VT · $70,283.20 - $78,374.40 (≈$34–$38/hr) · first seen 2026-09-29
-- **[Access Specialist — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=f35b6b7a-d76f-438f-834a-1606fa0b8acd)** — Howard Center · Burlington, VT · pay not listed · posted 2026-10-15 · first seen 2026-10-15
-- **[Marketing Communications Specialist](https://northcountryfederalcreditunion.applytojob.com/apply/d1OwwU9mTW/Marketing-Communications-Specialist)** — NorthCountry Federal Credit Union · Burlington, VT · pay not listed · first seen 2026-10-15
-- **[Health Outreach Specialist](https://www.uvmjobs.com/postings/88582)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-14 · first seen 2026-10-15
-- **[Technical Project Manager](https://apply.workable.com/j/CBCF60678B)** — OnLogic · South Burlington, Vermont · $80,000 to $105,000 (≈$38–$50/hr) · posted 2026-10-15 · first seen 2026-07-23
+- **[Center for Health and Wellbeing Patient Services Representative](https://www.uvmjobs.com/postings/88615)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-16 · first seen 2026-10-16
+- **[Jct Outdoor Recreation Specialist II](https://careers.vermont.gov/job/Essex-Jct-Outdoor-Recreation-Specialist-II-VT-05451/1440836400/)** — State of Vermont · Essex, VT · pay not listed · first seen 2026-10-16
+- **[Jct Outdoor Recreation Specialist III](https://careers.vermont.gov/job/Essex-Jct-Outdoor-Recreation-Specialist-III-VT-05451/1440836600/)** — State of Vermont · Essex, VT · pay not listed · first seen 2026-10-16
+- **[Outdoor Programs Coordinator](https://www.uvmjobs.com/postings/88613)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-15 · first seen 2026-10-16
+- **[City Assessor](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5482309/city-assessor)** — City of Burlington · Burlington, VT · $119,993.15 - $134,036.76 (≈$58–$64/hr) · first seen 2026-09-15
+- **[Executive Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516198/executive-manager)** — City of Burlington · Burlington, VT · $95,346.08 - $106,431.49 (≈$46–$51/hr) · first seen 2026-10-16
+- **[Senior Station Operator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516745/senior-station-operator)** — City of Burlington · Burlington, VT · $62,587.20 - $102,627.20 (≈$30–$49/hr) · first seen 2026-10-16
+- **[Station Operator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516729/station-operator)** — City of Burlington · Burlington, VT · $58,926.40 - $96,616.00 (≈$28–$46/hr) · first seen 2026-10-16
 
 ## ⭐ Best matches (22)
-- **[Asset Management Program Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5497460/asset-management-program-coordinator)** — City of Burlington · Burlington, VT · $87,977.49 - $98,179.43 (≈$42–$47/hr) · first seen 2026-09-29
 - **[Community and Belonging Program Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5507547/community-and-belonging-program-manager)** — City of Burlington · Burlington, VT · $81,099.20 - $90,480.00 (≈$39–$44/hr) · first seen 2026-10-07
 - **[Care Manager - AAP - Chittenden Clinic — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=86229e3f-bac7-4e0b-a10b-7c5aae6ffcb5)** — Howard Center · Burlington, VT · pay not listed · posted 2026-09-15 · first seen 2026-09-16
 - **[Career Coach - Career Connections — Mental Health Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=87492eab-e6a0-4c76-b6e5-b062ddd2cb9c)** — Howard Center · Burlington, VT · pay not listed · posted 2026-08-26 · first seen 2026-07-30
@@ -32,21 +32,22 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - **[Urgent Care Manager — Home, School, and Community Programs](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=62a65198-f076-4592-aca3-f474998de4ec)** — Howard Center · Burlington, VT · pay not listed · posted 2026-08-19 · first seen 2026-08-20
 - **[Operations Coordinator](https://essexvt.bamboohr.com/careers/176)** — Town of Essex / Essex Junction · Essex Jct, Vermont · pay not listed · first seen 2026-09-24
 - **[CAPS Administrative Coordinator/Patient Services Representative](https://www.uvmjobs.com/postings/88563)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-14 · first seen 2026-10-15
+- **[Center for Health and Wellbeing Patient Services Representative](https://www.uvmjobs.com/postings/88615)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-16 · first seen 2026-10-16
 - **[STEM Scholars Program Manager](https://www.uvmjobs.com/postings/88272)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-23 · first seen 2026-09-23
 - **[VCHIP Project Coordinator](https://www.uvmjobs.com/postings/88214)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-21 · first seen 2026-09-21
 
-## 👀 Still open, worth a look (140)
+## 👀 Still open, worth a look (142)
 - **[Accounts Payable Specialist, Finance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4422395009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-28 · first seen 2026-09-28
 - **[Airport Project Manager, Charge Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4402296009)** — Beta Technologies · South Burlington, Vermont, United States · $115,000 — $135,000 (≈$55–$65/hr) · posted 2026-10-13 · first seen 2026-10-13
 - **[Evening Cleaning Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4309803009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-03 · first seen 2026-09-04
-- **[Financial Analyst | Finance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4317696009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $110,000 (≈$41–$53/hr) · posted 2026-07-15 · first seen 2026-07-23
+- **[Financial Analyst, Finance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4317696009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $110,000 (≈$41–$53/hr) · posted 2026-07-15 · first seen 2026-07-23
 - **[Inventory Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4370787009)** — Beta Technologies · South Burlington, Vermont, United States · $70,000 — $80,000 (≈$34–$38/hr) · posted 2026-08-20 · first seen 2026-08-21
 - **[Master Data Implementation Specialist, Production Planning](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4377396009)** — Beta Technologies · South Burlington, Vermont, United States · $95,000 — $115,000 (≈$46–$55/hr) · posted 2026-08-20 · first seen 2026-08-21
 - **[Production Coordinator, Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4444317009)** — Beta Technologies · South Burlington, Vermont, United States · $32 — $37 (≈$32–$37/hr) · posted 2026-10-09 · first seen 2026-10-10
 - **[Senior Contracts Specialist, NPI & Contracting](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439302009)** — Beta Technologies · South Burlington, Vermont, United States · $125,000 — $135,000 (≈$60–$65/hr) · posted 2026-10-09 · first seen 2026-10-09
-- **[Senior GRC Analyst - Information Security](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4433651009)** — Beta Technologies · South Burlington, Vermont, United States · $130,000 — $150,000 (≈$62–$72/hr) · posted 2026-10-06 · first seen 2026-10-07
+- **[Senior Governance, Risk & Compliance Analyst, Information Security](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4433651009)** — Beta Technologies · South Burlington, Vermont, United States · $130,000 — $150,000 (≈$62–$72/hr) · posted 2026-10-06 · first seen 2026-10-07
 - **[Senior Information Security Ops Analyst](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4236996009)** — Beta Technologies · South Burlington, Vermont, United States · $135,000 — $175,000 (≈$65–$84/hr) · posted 2026-04-30 · first seen 2026-07-23
-- **[Senior Systems Administrator - IT](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419958009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $120,000 (≈$48–$58/hr) · posted 2026-09-28 · first seen 2026-09-28
+- **[Senior Systems Administrator, Information Technology](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419958009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $120,000 (≈$48–$58/hr) · posted 2026-09-28 · first seen 2026-09-28
 - **[Shipping and Receiving Material Coordinator, Logistics](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4323032009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $31 (≈$26–$31/hr) · posted 2026-07-17 · first seen 2026-08-05
 - **[Supplier Development Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4317750009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $115,000 (≈$41–$55/hr) · posted 2026-07-16 · first seen 2026-07-23
 - **[Emergency Communications Specialist](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5497476/emergency-communications-specialist)** — City of Burlington · Burlington, VT · $70,283.20 - $78,374.40 (≈$34–$38/hr) · first seen 2026-09-29
@@ -116,6 +117,8 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - **[Administrative Services Coordinator III](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Coordinator-III-VT-05677/1437447400/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-07
 - **[Child Support Specialist II](https://careers.vermont.gov/job/Burlington-Child-Support-Specialist-II-VT-05401/1435453000/)** — State of Vermont · Burlington, VT · pay not listed · first seen 2026-10-01
 - **[Fair Hearing Specialist Limited Service](https://careers.vermont.gov/job/Waterbury-Fair-Hearing-Specialist-Limited-Service-VT-05677/1436956400/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-05
+- **[Jct Outdoor Recreation Specialist II](https://careers.vermont.gov/job/Essex-Jct-Outdoor-Recreation-Specialist-II-VT-05451/1440836400/)** — State of Vermont · Essex, VT · pay not listed · first seen 2026-10-16
+- **[Jct Outdoor Recreation Specialist III](https://careers.vermont.gov/job/Essex-Jct-Outdoor-Recreation-Specialist-III-VT-05451/1440836600/)** — State of Vermont · Essex, VT · pay not listed · first seen 2026-10-16
 - **[Transportation Operations Technician I](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-I-VT-05439/1379162000/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
 - **[Transportation Operations Technician II](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-II-VT-05439/1379162600/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
 - **[Transportation Operations Technician II Temporary](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-II-Temporary-VT-05439/1428442000/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-09-10
@@ -132,87 +135,86 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - **[Health Outreach Specialist](https://www.uvmjobs.com/postings/88582)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-14 · first seen 2026-10-15
 - **[INVEST Grant Coordinator](https://www.uvmjobs.com/postings/88478)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-08 · first seen 2026-10-09
 - **[Marketing Operations Professional](https://www.uvmjobs.com/postings/88510)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-12 · first seen 2026-10-12
+- **[Outdoor Programs Coordinator](https://www.uvmjobs.com/postings/88613)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-15 · first seen 2026-10-16
 - **[SSVF Intake Coordinator](https://www.uvmjobs.com/postings/88299)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-28 · first seen 2026-09-28
 - **[Solid Waste Recycling Specialist](https://www.uvmjobs.com/postings/86626)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-05-22 · first seen 2026-07-23
 - **[Supportive Services for Veteran Families Program Assistant](https://www.uvmjobs.com/postings/88348)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-30 · first seen 2026-09-30
 - **[Technical Support Specialist](https://www.uvmjobs.com/postings/88454)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-07 · first seen 2026-10-07
 - **[Veteran Housing Service Coordinator](https://www.uvmjobs.com/postings/88301)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-28 · first seen 2026-09-28
-- **[Construction Project Manager | Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4362043009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $100,000 (≈$36–$48/hr) · posted 2026-08-11 · first seen 2026-08-11
-- **[Airframe Assembly Team Lead, Weekend Shift, Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211093009)** — Beta Technologies · South Burlington, Vermont, United States · $80,000 — $95,000 (≈$38–$46/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Airframe Assembly Team Lead - Weekend Shift, Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211093009)** — Beta Technologies · South Burlington, Vermont, United States · $80,000 — $95,000 (≈$38–$46/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Bill of Materials (BoM) and Master Data Management, Configuration Management](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211063009)** — Beta Technologies · South Burlington, Vermont, United States · $80,000 — $110,000 (≈$38–$53/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Buyer/Planner, New Product Introduction](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4420096009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $85,000 (≈$36–$41/hr) · posted 2026-09-24 · first seen 2026-09-25
 - **[CMM Operator](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4318531009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $36 (≈$26–$36/hr) · posted 2026-07-16 · first seen 2026-07-23
 - **[CMM Programmer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4295373009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $100,000 (≈$36–$48/hr) · posted 2026-06-24 · first seen 2026-07-23
 - **[CNC Machinist, Machine Shop](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211351009)** — Beta Technologies · South Burlington, Vermont, United States · $27 — $38 (≈$27–$38/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[CNC Machinist, Machine Shop, 2nd Shift](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4210997009)** — Beta Technologies · South Burlington, Vermont, United States · $27 — $38 (≈$27–$38/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Construction Project Manager, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4362043009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $100,000 (≈$36–$48/hr) · posted 2026-08-11 · first seen 2026-08-11
 - **[Flight Test Change Management, Configuration Management](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211220009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $125,000 (≈$48–$60/hr) · posted 2026-04-08 · first seen 2026-07-23
-- **[Lead Landscaper | Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4367146009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $36 (≈$30–$36/hr) · posted 2026-08-12 · first seen 2026-08-13
+- **[Lead Landscaper, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4367146009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $36 (≈$30–$36/hr) · posted 2026-08-12 · first seen 2026-08-13
 - **[Level II Ultrasonic Nondestructive Inspection (NDI) Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211391009)** — Beta Technologies · South Burlington, Vermont, United States · $32 — $42 (≈$32–$42/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[M&P Laboratory Testing Technician, Materials & Processing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211099009)** — Beta Technologies · South Burlington, Vermont, United States · $35 — $40 (≈$35–$40/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Manufacturing Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211088009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-28
-- **[Manufacturing Technician - Motors | Manufacturing Dir. Motors](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211160009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
-- **[Manufacturing Technician | Electrical](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211300009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $35 (≈$26–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Manufacturing Technician, Electrical Subsystems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211300009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $35 (≈$26–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Manufacturing Technician, Motors](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211160009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Metrology Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4389089009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $34 (≈$28–$34/hr) · posted 2026-09-18 · first seen 2026-09-19
 - **[Multi-Site Planner, Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4438988009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $95,000 (≈$41–$46/hr) · posted 2026-10-09 · first seen 2026-10-09
-- **[Part Time Fixed Wing Certified Flight Instructor (CFI)](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211389009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $35 (≈$30–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Part Time Fixed Wing Certified Flight Instructor](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211389009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $35 (≈$30–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Procurement Manager, Systems and Interiors](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4438487009)** — Beta Technologies · South Burlington, Vermont, United States · $110,000 — $140,000 (≈$53–$67/hr) · posted 2026-10-08 · first seen 2026-10-08
 - **[Quality Control Inspection Technician, Structures, Wknd](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4218361009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $37 (≈$26–$37/hr) · posted 2026-10-08 · first seen 2026-10-09
 - **[Quality Control Inspector](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211345009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $37 (≈$26–$37/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Receiving Inspector](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211312009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $35 (≈$26–$35/hr) · posted 2026-04-08 · first seen 2026-09-01
-- **[Securities & Corporate Counsel - Legal](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4408267009)** — Beta Technologies · South Burlington, Vermont, United States · $225,000 — $275,000 (≈$108–$132/hr) · posted 2026-09-16 · first seen 2026-09-17
+- **[Securities & Corporate Counsel, Legal](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4408267009)** — Beta Technologies · South Burlington, Vermont, United States · $225,000 — $275,000 (≈$108–$132/hr) · posted 2026-09-16 · first seen 2026-09-17
 - **[Senior Aerospace Technical Writer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4410009009)** — Beta Technologies · South Burlington, Vermont, United States · $105,000 — $115,000 (≈$50–$55/hr) · posted 2026-09-18 · first seen 2026-09-18
 - **[Senior Buyer, Raw Materials and Hardware](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211282009)** — Beta Technologies · South Burlington, Vermont, United States · $80,000 — $95,000 (≈$38–$46/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[State and Local Tax Manager, Finance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4449227009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $120,000 (≈$48–$58/hr) · posted 2026-10-13 · first seen 2026-10-13
 - **[Supplier Quality Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211304009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $35 (≈$26–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
-- **[Circulation Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5508134/circulation-manager)** — City of Burlington · Burlington, VT · $74,876.00 - $83,506.00 (≈$36–$40/hr) · first seen 2026-10-07
-- **[Marketing Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5506942/marketing-manager)** — City of Burlington · Burlington, VT · $74,876.00 - $83,506.00 (≈$36–$40/hr) · first seen 2026-10-07
-- **[Right of Way Field Technician I](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5402063/right-of-way-field-technician-i)** — City of Burlington · Burlington, VT · $58,406.40 - $65,041.60 (≈$28–$31/hr) · first seen 2026-07-23
-- **[Trusted Community Voices Liaison](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5505746/trusted-community-voices-liaison)** — City of Burlington · Burlington, VT · $30.00 (≈$30/hr) · first seen 2026-10-07
+- **[City Assessor](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5482309/city-assessor)** — City of Burlington · Burlington, VT · $119,993.15 - $134,036.76 (≈$58–$64/hr) · first seen 2026-09-15
+- **[Executive Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516198/executive-manager)** — City of Burlington · Burlington, VT · $95,346.08 - $106,431.49 (≈$46–$51/hr) · first seen 2026-10-16
+- **[Senior Station Operator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516745/senior-station-operator)** — City of Burlington · Burlington, VT · $62,587.20 - $102,627.20 (≈$30–$49/hr) · first seen 2026-10-16
+- **[Station Operator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516729/station-operator)** — City of Burlington · Burlington, VT · $58,926.40 - $96,616.00 (≈$28–$46/hr) · first seen 2026-10-16
 - **[AVP, Underwriting](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4224626009)** — National Life Group · Addison, TX; Montpelier, VT; Remote, USA · $168,750 — $247,500 (≈$81–$119/hr) · posted 2026-04-17 · first seen 2026-07-23
 - **[Actuary – Model Development, Annuities](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4437685009)** — National Life Group · Addison, TX; Montpelier, VT; Remote, USA · $138,750 — $203,500 (≈$67–$98/hr) · posted 2026-10-13 · first seen 2026-10-14
 - **[Manager, Infrastructure and Security](https://apply.workable.com/j/17CDF4A2FD)** — OnLogic · South Burlington, Vermont · $170,000 to $200,000 (≈$82–$96/hr) · posted 2026-01-09 · first seen 2026-07-23
 - **[Sales Project Manager](https://apply.workable.com/j/6EE3237B2B)** — OnLogic · South Burlington, Vermont · $90,000 to $110,000 (≈$43–$53/hr) · posted 2026-09-30 · first seen 2026-08-15
 - **[Strategic Buyer](https://apply.workable.com/j/81F3970629)** — OnLogic · South Burlington, Vermont · $110,000 to $140,000 (≈$53–$67/hr) · posted 2026-09-11 · first seen 2026-07-23
-- **[Technical Project Manager](https://apply.workable.com/j/CBCF60678B)** — OnLogic · South Burlington, Vermont · $80,000 to $105,000 (≈$38–$50/hr) · posted 2026-10-15 · first seen 2026-07-23
 - **[Technical Sales Representative](https://apply.workable.com/j/5D08DB50E9)** — OnLogic · South Burlington, Vermont · $55,000 to $60,000 (≈$26–$29/hr) · posted 2026-09-28 · first seen 2026-09-28
 - **[Residential HVAC Installer (Vermont Energy)](https://jobs.sevendaysvt.com/job/construction-trades/vermont-energy-williston-full-time-residential-hvac-installer/)** — Seven Days Jobs (local board) · Williston, Vermont, USA · $30.00 – $50.00 (≈$30–$50/hr) · first seen 2026-10-12
 
 ## ❌ Closed since last run
-- Pharmacist, Inpatient — UVM Medical Center
-- Ambulatory Pharmacist Clinician, Specialty Pharmacy — UVM Medical Center
-- Nurse Coordinator - Care Coordination System — UVM Medical Center
-- Tax Compliance Officer I — State of Vermont
-- Tax Compliance Officer II — State of Vermont
-- Tax Compliance Officer III — State of Vermont
-- Civil Engineer I Traffic Design Unit — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- ESD Program Manager — State of Vermont
-- Administrative Services Technician IV — State of Vermont
-- Health Reform Portfolio Director II — State of Vermont
-- Junction Probation and Parole Officer — State of Vermont
-- Environmental Analyst IV Drinking Water & Groundwater Protection Division Limited Service — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- Student Financial Services Counselor — University of Vermont
-- Custodian Specialist — University of Vermont
-- Associate Vice President for Economic Development — University of Vermont
-- SARE Grant Program Admin - Partnership Grant — University of Vermont
-- Military & Veteran Services Coordinator — Champlain College
-- City Assessor — City of Burlington
-- Production Coordinator | Dir. Structures — Beta Technologies
-- IT Systems Administrator - Digital Operations — Beta Technologies
-- Youth Coach Nighty Shelter (Spectrum) — Seven Days Jobs (local board)
-- Youth Coach Supported Housing (Spectrum) — Seven Days Jobs (local board)
-- Youth Development Coordinator (Spectrum) — Seven Days Jobs (local board)
-- Fishing & Marine Sales Specialist (Aubuchon - Bibens Ace) — Seven Days Jobs (local board)
-- Food Service Specialist (Lund) — Seven Days Jobs (local board)
-- Outreach Program Coordinator (Lyric Theatre Company) — Seven Days Jobs (local board)
-- Operations Director (AFT Vermont) — Common Good Vermont (nonprofit board)
+- Surgical Room Specialist — UVM Medical Center
+- Medical Interpreter - Spanish — UVM Medical Center
+- Registered Nurse — Mental Health Services — Howard Center
+- Mobile Unit Client Support Specialist — State of Vermont
+- Director of Policy and Program Integration Exempt — State of Vermont
+- Senior Insurance Rate & Form Analyst — State of Vermont
+- Associate Insurance Rate & Form Analyst — State of Vermont
+- Insurance Rate & Form Analyst — State of Vermont
+- Staff Attorney — State of Vermont
+- Health Statistics and Informatics Division Director — State of Vermont
+- VVH Institutional Custodian Temporary — State of Vermont
+- Waterfront Dockmaster — City of Burlington
+- Recycle Truck Driver-Temporary — City of Burlington
+- Street Laborer-Temporary — City of Burlington
+- Right of Way Field Technician I — City of Burlington
+- Vacation Camp & After School Program Director — City of Burlington
+- Asset Management Program Coordinator — City of Burlington
+- BCA Center Gallery Staff — City of Burlington
+- Trusted Community Voices Liaison — City of Burlington
+- Marketing Manager — City of Burlington
+- Circulation Manager — City of Burlington
+- Financial Analyst Co-Op — OnLogic
+- Fab9 Logistics Technician CDC — GlobalFoundries
+- Sr. Technician - Factory Automation (Day Shift) — GlobalFoundries
+- AVP & Actuary – Enterprise Asset Liability Management Strategy  — National Life Group
+- Director of Board & Presidential Relations (The University of Vermont Foundation) — Common Good Vermont (nonprofit board)
+- Immigration Staff Attorney (Vermont Afghan Alliance) — Common Good Vermont (nonprofit board)
+- Director of Daily Operations and Customer Applications (VITL) — Common Good Vermont (nonprofit board)
+- Executive Director (The Current) — Common Good Vermont (nonprofit board)
 
-<details><summary>🗑 Probably skip (1111 open listings that didn't fit)</summary>
+<details><summary>🗑 Probably skip (1116 open listings that didn't fit)</summary>
 
 - [Energy Services Program Coordinator (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/admin-office/vgs-energy-services-program-coordinator/) — Seven Days Jobs (local board) · _healthcare-admin fit_
 - [Youth Basketball Site Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5504225/youth-basketball-site-coordinator) — City of Burlington · _business/admin fit_
-- [Financial Analyst Co-Op](https://apply.workable.com/j/36C24D3728) — OnLogic · _business/admin fit_
 - [Credit and Collections Specialist (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/accounting-finance/vgs-credit-and-collections-specialist/) — Seven Days Jobs (local board) · _business/admin fit_
 - [Customer Care Specialist (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/customer-service/vgs-customer-care-specialist-2/) — Seven Days Jobs (local board) · _business/admin fit_
 - [Acute Direct Support Professional (Full-Time & Part-Time) — Developmental Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=094cf2a0-9ef6-4db7-a63c-02f9b50073cf) — Howard Center · _title outside target keywords_
@@ -239,88 +241,85 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - [Aircraft Dynamics Engineer, Flight Sciences](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4218469009) — Beta Technologies · _role mismatch (engineer)_
 - [Aircraft Interiors Engineer, New Product Introduction](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211003009) — Beta Technologies · _role mismatch (engineer)_
 - [Aircraft Loads Engineer, Flight Sciences](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4377459009) — Beta Technologies · _role mismatch (engineer)_
-- [Associate Supplier Development Engineer - Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439322009) — Beta Technologies · _role mismatch (engineer)_
-- [Battery Management System (BMS) Engineer, Battery](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211260009) — Beta Technologies · _role mismatch (engineer)_
-- [Certification Engineer - Certification](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4256983009) — Beta Technologies · _role mismatch (engineer)_
-- [Composites Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425504009) — Beta Technologies · _role mismatch (engineer)_
-- [Composites R&D Manufacturing Engineering Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4310234009) — Beta Technologies · _role mismatch (engineer)_
-- [Computational Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425518009) — Beta Technologies · _role mismatch (engineer)_
-- [Data Platform Engineer | Data & Platform](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4410036009) — Beta Technologies · _role mismatch (engineer)_
+- [Associate Supplier Development Engineer, Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439322009) — Beta Technologies · _role mismatch (engineer)_
+- [Battery Management System (BMS) Engineer, Battery R&D](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211260009) — Beta Technologies · _role mismatch (engineer)_
+- [Certification Engineer, Airworthiness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4256983009) — Beta Technologies · _role mismatch (engineer)_
+- [Composites Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425504009) — Beta Technologies · _role mismatch (engineer)_
+- [Composites Tooling Engineer, Manufacturing Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4396126009) — Beta Technologies · _role mismatch (engineer)_
+- [Computational Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425518009) — Beta Technologies · _role mismatch (engineer)_
+- [Data Platform Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4410036009) — Beta Technologies · _role mismatch (engineer)_
 - [Design Engineer, Structure Integration, NPI Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211074009) — Beta Technologies · _role mismatch (engineer)_
 - [Design Engineer, System Integration, NPI Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211072009) — Beta Technologies · _role mismatch (engineer)_
 - [Director of Supplier Quality](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4418953009) — Beta Technologies · _title outside target keywords_
-- [Electrical Engineer - South Burlington | Airborne Hardware](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211250009) — Beta Technologies · _role mismatch (engineer)_
-- [Embedded Software Engineer | Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211400009) — Beta Technologies · _role mismatch (software)_
+- [Electrical Engineer, Airborne Hardware](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211250009) — Beta Technologies · _role mismatch (engineer)_
+- [Electrician, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321951009) — Beta Technologies · _role mismatch (electrician)_
+- [Embedded Software Engineer, Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211400009) — Beta Technologies · _role mismatch (software)_
 - [Engineering Change Planner, Production Planning](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211154009) — Beta Technologies · _role mismatch (engineer)_
-- [Engineering Prototype Technician | Motors R&D](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4328509009) — Beta Technologies · _role mismatch (engineer)_
-- [Facilities Electrician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321951009) — Beta Technologies · _role mismatch (electrician)_
-- [Flight Controls Engineer - Autonomy](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4227381009) — Beta Technologies · _role mismatch (engineer)_
-- [Industrial Engineer | Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211337009) — Beta Technologies · _role mismatch (engineer)_
-- [Information Systems Security Officer (ISSO) | Information Security](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4404048009) — Beta Technologies · _role mismatch (security officer)_
+- [Engineering Prototype Technician, Motors R&D](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4328509009) — Beta Technologies · _role mismatch (engineer)_
+- [Flight Controls Engineer, Autonomy](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4227381009) — Beta Technologies · _role mismatch (engineer)_
+- [Flight Instruments Project Engineer, Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211278009) — Beta Technologies · _role mismatch (engineer)_
+- [Industrial Engineer, Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211337009) — Beta Technologies · _role mismatch (engineer)_
+- [Information Systems Security Officer (ISSO), Information Security](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4404048009) — Beta Technologies · _role mismatch (security officer)_
 - [Integration Engineer, Propulsion](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211290009) — Beta Technologies · _role mismatch (engineer)_
-- [Lead Electrical Engineer | Low Voltage System](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4281172009) — Beta Technologies · _role mismatch (engineer)_
-- [Lead Embedded Software Engineer - Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4411529009) — Beta Technologies · _role mismatch (software)_
+- [Lead Electrical Engineer, Low Voltage System](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4281172009) — Beta Technologies · _role mismatch (engineer)_
+- [Lead Embedded Software Engineer, Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4411529009) — Beta Technologies · _role mismatch (software)_
 - [MRB Liaison Engineer, Production Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211164009) — Beta Technologies · _role mismatch (engineer)_
 - [MRB Stress Engineer, Production Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211032009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineer - Battery Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211184009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineer - Electromechanical Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211123009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineer - FAL](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419955009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineer - Weekend Shift | Structural Assembly](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211061009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineer | Structural Assembly](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211359009) — Beta Technologies · _role mismatch (engineer)_
-- [Manufacturing Engineering Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211310009) — Beta Technologies · _role mismatch (engineer)_
+- [Manufacturing Engineer, Battery Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211184009) — Beta Technologies · _role mismatch (engineer)_
+- [Manufacturing Engineer, Electromechanical Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211123009) — Beta Technologies · _role mismatch (engineer)_
+- [Manufacturing Engineer, Final Assembly Line](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419955009) — Beta Technologies · _role mismatch (engineer)_
+- [Manufacturing Engineer, Structural Assembly](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211359009) — Beta Technologies · _role mismatch (engineer)_
+- [Manufacturing Engineering Lead, Batteries](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211310009) — Beta Technologies · _role mismatch (engineer)_
 - [Materials and Processes Composites Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321510009) — Beta Technologies · _role mismatch (engineer)_
-- [Mechanical Design Engineer | Production Tooling](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211341009) — Beta Technologies · _role mismatch (engineer)_
-- [Mechanical Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425526009) — Beta Technologies · _role mismatch (engineer)_
+- [Mechanical Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425526009) — Beta Technologies · _role mismatch (engineer)_
+- [Mechanical Design Engineer, Production Tooling](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211341009) — Beta Technologies · _role mismatch (engineer)_
 - [Mechanical Engineer - Charge | Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4386510009) — Beta Technologies · _role mismatch (engineer)_
-- [Platform Software Engineer – Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4265190009) — Beta Technologies · _role mismatch (software)_
-- [Process Development Engineer | Manufacturing Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211197009) — Beta Technologies · _role mismatch (engineer)_
+- [Platform Software Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4265190009) — Beta Technologies · _role mismatch (software)_
+- [Power Systems Engineer, Battery R&D](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4210999009) — Beta Technologies · _role mismatch (engineer)_
+- [Process Development Engineer, Manufacturing Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211197009) — Beta Technologies · _role mismatch (engineer)_
 - [Product Quality Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211284009) — Beta Technologies · _role mismatch (engineer)_
-- [Product Quality Engineer Area Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211010009) — Beta Technologies · _role mismatch (engineer)_
+- [Product Quality Engineer Area Lead, Flight Test](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211010009) — Beta Technologies · _role mismatch (engineer)_
 - [Program Quality Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4252174009) — Beta Technologies · _role mismatch (engineer)_
-- [Project Engineer - Flight Instruments | Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211278009) — Beta Technologies · _role mismatch (engineer)_
 - [Project Engineer, Propulsion](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439230009) — Beta Technologies · _role mismatch (engineer)_
-- [Propulsion Certification Engineer | Certification](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211302009) — Beta Technologies · _role mismatch (engineer)_
-- [Propulsion Systems Engineer | Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4355196009) — Beta Technologies · _role mismatch (engineer)_
+- [Propulsion Certification Engineer, Airworthiness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211302009) — Beta Technologies · _role mismatch (engineer)_
+- [R&D Manufacturing Engineering Lead, Composites Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4310234009) — Beta Technologies · _role mismatch (engineer)_
 - [R&D Materials and Processes Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321491009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior AI Systems Engineer - Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429157009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Composites Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425506009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Electrical Engineer | Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4391448009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Manufacturing Engineer – Product Launch & Scalability | Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211298009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Mechanical Design Engineer | Production Tooling](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211339009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Mechanical Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425528009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior AI Systems Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429157009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Composites Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425506009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Electrical Engineer, Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4391448009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Manufacturing Engineer, Product Launch & Scalability](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211298009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Mechanical Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425528009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Mechanical Design Engineer, Production Tooling](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211339009) — Beta Technologies · _role mismatch (engineer)_
 - [Senior Mechanical Engineer, NPI Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4377480009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Power Systems Engineer | Battery R&D](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4210999009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Stress Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425491009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Structural Dynamics Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425514009) — Beta Technologies · _role mismatch (engineer)_
-- [Senior Structures Design Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425497009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Stress Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425491009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Structural Dynamics Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425514009) — Beta Technologies · _role mismatch (engineer)_
+- [Senior Structures Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425497009) — Beta Technologies · _role mismatch (engineer)_
 - [Senior Systems Safety Engineer, Airworthiness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211166009) — Beta Technologies · _role mismatch (engineer)_
-- [Software Engineer - Composites](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4433862009) — Beta Technologies · _role mismatch (software)_
-- [Software Engineer | Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4329819009) — Beta Technologies · _role mismatch (software)_
+- [Software Engineer, Composites](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4433862009) — Beta Technologies · _role mismatch (software)_
+- [Software Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4329819009) — Beta Technologies · _role mismatch (software)_
 - [Software Quality Engineer, Process Assurance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4295386009) — Beta Technologies · _role mismatch (software)_
-- [Stability and Controls Engineer - Flight Sciences](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429907009) — Beta Technologies · _role mismatch (engineer)_
-- [Stress Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425495009) — Beta Technologies · _role mismatch (engineer)_
-- [Structural Dynamics Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425510009) — Beta Technologies · _role mismatch (engineer)_
+- [Stability and Controls Engineer, Flight Sciences](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429907009) — Beta Technologies · _role mismatch (engineer)_
+- [Stress Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425495009) — Beta Technologies · _role mismatch (engineer)_
+- [Structural Dynamics Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425510009) — Beta Technologies · _role mismatch (engineer)_
 - [Structural Engineer, Propulsion](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211296009) — Beta Technologies · _role mismatch (engineer)_
-- [Structures Design Engineer - Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429162009) — Beta Technologies · _role mismatch (engineer)_
+- [Structures Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429162009) — Beta Technologies · _role mismatch (engineer)_
 - [Supplier Compliance Engineer, Procurement](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4377435009) — Beta Technologies · _role mismatch (engineer)_
 - [Supplier Development Engineer, Composites](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4377213009) — Beta Technologies · _role mismatch (engineer)_
 - [Supplier Quality Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211286009) — Beta Technologies · _role mismatch (engineer)_
-- [Systems Engineer - General | Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211397009) — Beta Technologies · _role mismatch (engineer)_
-- [Systems Engineer - High Voltage Power / Low Voltage Power](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4260898009) — Beta Technologies · _role mismatch (engineer)_
-- [Systems Integration Engineer – Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425501009) — Beta Technologies · _role mismatch (engineer)_
-- [Tooling Engineer - Composites | Manufacturing Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4396126009) — Beta Technologies · _role mismatch (engineer)_
-- [Verification Engineer - Flight Instruments | Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211280009) — Beta Technologies · _role mismatch (engineer)_
+- [Systems Engineer (General)](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211397009) — Beta Technologies · _role mismatch (engineer)_
+- [Systems Engineer, High Voltage Power / Low Voltage Power](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4260898009) — Beta Technologies · _role mismatch (engineer)_
+- [Systems Engineer, Propulsion](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4355196009) — Beta Technologies · _role mismatch (engineer)_
+- [Systems Integration Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425501009) — Beta Technologies · _role mismatch (engineer)_
+- [Verification Engineer, Flight Instruments](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211280009) — Beta Technologies · _role mismatch (engineer)_
+- [Weekend Manufacturing Engineer, Structural Assembly](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211061009) — Beta Technologies · _role mismatch (engineer)_
 - [Adjunct Instructor](https://champlain-ibumjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15) — Champlain College · _role mismatch (adjunct)_
+- [Airport Maintenance Worker - Seasonal](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5502295/airport-maintenance-worker-seasonal) — City of Burlington · _role mismatch (maintenance)_
 - [Assistant Waterfront Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5221076/assistant-waterfront-manager) — City of Burlington · _title outside target keywords_
-- [BCA Center Gallery Staff](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5503838/bca-center-gallery-staff) — City of Burlington · _title outside target keywords_
 - [CSM Temporary Maintenance Worker](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5496189/csm-temporary-maintenance-worker) — City of Burlington · _role mismatch (maintenance)_
 - [Crossing Guard](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5437042/crossing-guard) — City of Burlington · _title outside target keywords_
 - [Fleet Maintenance Technician](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician) — City of Burlington · _role mismatch (maintenance)_
 - [Police Officer](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5396206/police-officer) — City of Burlington · _role mismatch (police)_
-- [Recycle Truck Driver-Temporary](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401961/recycle-truck-driver-temporary) — City of Burlington · _role mismatch (driver)_
-- [Street Laborer-Temporary](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401969/street-laborer-temporary) — City of Burlington · _title outside target keywords_
 - [Vacation Camp & After School Program Teacher](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5485944/vacation-camp-after-school-program-teacher) — City of Burlington · _title outside target keywords_
-- [Waterfront Dockmaster](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5221110/waterfront-dockmaster) — City of Burlington · _title outside target keywords_
 - [Highway Maintenance Worker](https://www.governmentjobs.com/careers/southburlington/jobs/5340672/highway-maintenance-worker) — City of South Burlington · _role mismatch (maintenance)_
 - [Highway Mechanic](https://www.governmentjobs.com/careers/southburlington/jobs/5091236/highway-mechanic) — City of South Burlington · _role mismatch (mechanic)_
 - [Police Officer](https://www.governmentjobs.com/careers/southburlington/jobs/4376961/police-officer) — City of South Burlington · _role mismatch (police)_
@@ -343,8 +342,6 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - [Development Coordinator (Tails of Hope – Rutland County's Humane Society)](https://commongoodvt.org/job/tails-of-hope-rutland-countys-humane-society-5-development-coordinator/) — Common Good Vermont (nonprofit board) · _outside commute range (Rutland County, VT)_
 - [Development Director (Vermont Mountain Bike Association)](https://commongoodvt.org/job/vermont-mountain-bike-association-5-development-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Vermont (statewide))_
 - [Development Manager (Vital Communities)](https://commongoodvt.org/job/vital-communities-5-development-manager-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Windsor County, VT)_
-- [Director of Board & Presidential Relations (The University of Vermont Foundation)](https://commongoodvt.org/job/the-university-of-vermont-foundation-5-director-of-board-presidential-relations/) — Common Good Vermont (nonprofit board) · _outside commute range (Chittenden County, VT)_
-- [Director of Daily Operations and Customer Applications (VITL)](https://commongoodvt.org/job/vitl-5-director-of-daily-operations-and-customer-applications/) — Common Good Vermont (nonprofit board) · _outside commute range (Vermont (statewide))_
 - [Director of Data Programs and Quality (Vermont Network Against Domestic and Sexual Violence)](https://commongoodvt.org/job/vermont-network-against-domestic-and-sexual-violence-5-director-of-data-programs-and-quality/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Director of Fundraising (North Country Animal League)](https://commongoodvt.org/job/north-country-animal-league-5-director-of-fundraising/) — Common Good Vermont (nonprofit board) · _outside commute range (Lamoille County, VT)_
 - [Director of Operations (Southern Vermont Arts Center)](https://commongoodvt.org/job/southern-vermont-arts-center-5-director-of-operations/) — Common Good Vermont (nonprofit board) · _outside commute range (Bennington County, VT)_
@@ -357,7 +354,6 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - [Executive Director (Kellogg-Hubbard Library)](https://commongoodvt.org/job/kellogg-hubbard-library-5-executive-director-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Executive Director (Montpelier Performing Arts Hub)](https://commongoodvt.org/job/montpelier-performing-arts-hub-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Executive Director (Recovery Partners of Vermont)](https://commongoodvt.org/job/recovery-partners-of-vermont-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Vermont (statewide))_
-- [Executive Director (The Current)](https://commongoodvt.org/job/the-current-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Lamoille County, VT)_
 - [Executive Director (Vermont Center for Ecostudies)](https://commongoodvt.org/job/vermont-center-for-ecostudies-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Windsor County, VT)_
 - [Executive Director (Vermont Huts & Trails)](https://commongoodvt.org/job/vermont-huts-trails-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Executive Director (Winooski Housing Authority & Chittenden Housing Corporation)](https://commongoodvt.org/job/winooski-housing-authority-chittenden-housing-corporation-5-executive-director/) — Common Good Vermont (nonprofit board) · _outside commute range (Chittenden County, VT)_
@@ -371,7 +367,6 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - [HR/EPeC Generalist (Vermont Foodbank)](https://commongoodvt.org/job/vermont-foodbank-5-epec-generalist/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [House Manager (L'Arche Southern Vermont)](https://commongoodvt.org/job/larche-southern-vermont-5-house-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Windham County, VT)_
 - [Housing Advocate (Mosaic Vermont)](https://commongoodvt.org/job/mosaic-vermont-5-housing-advocate/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
-- [Immigration Staff Attorney (Vermont Afghan Alliance)](https://commongoodvt.org/job/vermont-afghan-alliance-5-immigration-staff-attorney/) — Common Good Vermont (nonprofit board) · _outside commute range (Addison County, VT)_
 - [Legislative Intern (Vermont Natural Resources Council)](https://commongoodvt.org/job/vermont-natural-resources-council-7-2027-vnrc-vcv-vpa-legislative-internship/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Local Food Center Coordinator (AmeriCorps - Vermont Farmers Food Center)](https://commongoodvt.org/job/americorps-vermont-farmers-food-center-5-local-food-center-coordinator/) — Common Good Vermont (nonprofit board) · _outside commute range (Rutland County, VT)_
 - [Manager, Sports (Special Olympics Vermont)](https://commongoodvt.org/job/special-olympics-vermont-5-manager-sports/) — Common Good Vermont (nonprofit board) · _outside commute range (Chittenden County, VT)_
@@ -410,6 +405,14 @@ _1273 open listings tracked · 63 new today (7 interesting) · 29 closed today_
 - [Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661) — GlobalFoundries · _role mismatch (rn,)_
 - [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639) — GlobalFoundries · _role mismatch (rn,)_
 - [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Job-Posting-Title-Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604664) — GlobalFoundries · _role mismatch (rn,)_
-- …and 911 more
+- [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604665) — GlobalFoundries · _role mismatch (rn,)_
+- [Advanced Packaging Cryogenic Modeling Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Advanced-Packaging-Cryogenic-Modeling-Engineer_JR-2601407) — GlobalFoundries · _outside commute range (2 Locations)_
+- [Advanced Packaging Process Integration Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Advanced-Packaging-Process-Integration-Engineer_JR-2601204) — GlobalFoundries · _role mismatch (engineer)_
+- [Associate Maintenance Technician Apprenticeship (Days)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Associate-Maintenance-Technician-Apprenticeship--Days-_JR-2605455) — GlobalFoundries · _role mismatch (maintenance)_
+- [Associate Maintenance Technician Apprenticeship (Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Associate-Maintenance-Technician-Apprenticeship--Nights-_JR-2605454) — GlobalFoundries · _role mismatch (maintenance)_
+- [Buildings Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Buildings-Engineer--2027-New-College-Graduate-_JR-2604712) — GlobalFoundries · _role mismatch (engineer)_
+- [Commercial Agreements Legal Intern (2027 Summer)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) — GlobalFoundries · _role mismatch (intern)_
+- [DMTS SiPh Packaging & Assembly Materials](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/DMTS-SiPh-Packaging---Assembly-Materials_JR-2603372-1) — GlobalFoundries · _outside commute range (2 Locations)_
+- …and 916 more
 
 </details>
