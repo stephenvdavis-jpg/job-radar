@@ -1,17 +1,6 @@
-# Job radar digest — 2026-10-24
+# Job radar digest — 2026-10-25
 
-_1331 open listings tracked · 25 new today (9 interesting) · 25 closed today_
-
-## 🆕 New since last run
-- **[Public Health Program Manager I](https://careers.vermont.gov/job/Waterbury-Public-Health-Program-Manager-I-VT-05677/1406379500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-07-28
-- **[Team Lead - Adult Intensive Services — Mental Health Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=f54e1de5-eb81-4c64-ae42-b086f3715da4)** — Howard Center · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-10-24
-- **[Human Resources Generalist](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5526977/human-resources-generalist)** — City of Burlington · Burlington, VT · $33.65 - $37.52 (≈$34–$38/hr) · first seen 2026-10-24
-- **[Water Distribution Operations Lead](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5508236/water-distribution-operations-lead)** — City of Burlington · Burlington, VT · $81,432.00 - $90,833.60 (≈$39–$44/hr) · first seen 2026-10-11
-- **[Administrative Services Coordinator II](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Coordinator-II-VT-05677/1437206500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-06
-- **[Network Administrator](https://essexvt.bamboohr.com/careers/178)** — Town of Essex / Essex Junction · Essex Jct, Vermont · pay not listed · first seen 2026-10-24
-- **[Finance Administrator](https://www.uvmjobs.com/postings/88675)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-10-24
-- **[Community Service Officer](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5522073/community-service-officer)** — City of Burlington · Burlington, VT · $61,963.20 - $69,056.00 (≈$30–$33/hr) · first seen 2026-10-20
-- **[Library Assistant I Circulation - PT](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5524323/library-assistant-i-circulation-pt)** — City of Burlington · Burlington, VT · $28.08 (≈$28/hr) · first seen 2026-10-22
+_1321 open listings tracked · 0 new today (0 interesting) · 10 closed today_
 
 ## ⭐ Best matches (27)
 - **[Asset Management Program Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5497460/asset-management-program-coordinator)** — City of Burlington · Burlington, VT · $87,977.49 - $98,179.43 (≈$42–$47/hr) · first seen 2026-09-29
@@ -42,7 +31,7 @@ _1331 open listings tracked · 25 new today (9 interesting) · 25 closed today_
 - **[STEM Scholars Program Manager](https://www.uvmjobs.com/postings/88272)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-23 · first seen 2026-09-23
 - **[VCHIP Project Coordinator](https://www.uvmjobs.com/postings/88671)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-10-23
 
-## 👀 Still open, worth a look (145)
+## 👀 Still open, worth a look (144)
 - **[Accounts Payable Specialist, Finance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4422395009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-28 · first seen 2026-09-28
 - **[Airport Project Manager, Charge Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4402296009)** — Beta Technologies · South Burlington, Vermont, United States · $115,000 — $135,000 (≈$55–$65/hr) · posted 2026-10-13 · first seen 2026-10-13
 - **[Evening Cleaning Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4309803009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-03 · first seen 2026-09-04
@@ -119,7 +108,6 @@ _1331 open listings tracked · 25 new today (9 interesting) · 25 closed today_
 - **[Service Coordinator (Champlain Community Services)](https://jobs.sevendaysvt.com/job/nonprofit/ccs-service-coordinator-3/)** — Seven Days Jobs (local board) · Colchester, Vermont, USA · pay not listed · first seen 2026-10-06
 - **[Systems Administrator – Client Technical Services (PCC)](https://jobs.sevendaysvt.com/job/healthcare/pcc-systems-administrator-client-technical-services-3/)** — Seven Days Jobs (local board) · Winooski, Vermont, USA · pay not listed · first seen 2026-10-06
 - **[Technical Support Specialist (UVM)](https://jobs.sevendaysvt.com/job/it-systems-admin/uvm-technical-support-specialist/)** — Seven Days Jobs (local board) · Burlington, Vermont, United States · pay not listed · first seen 2026-10-14
-- **[Zoning & Compliance Specialist (Town of Colchester)](https://jobs.sevendaysvt.com/job/admin-office/town-of-colchester-colchester-part-time-zoning-compliance-specialist/)** — Seven Days Jobs (local board) · Colchester, Vermont, USA · pay not listed · first seen 2026-09-09
 - **[Administrative Services Coordinator II](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Coordinator-II-VT-05677/1437206500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-06
 - **[Administrative Services Manager II](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Manager-II-VT-05677/1442237500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-21
 - **[CDD ProcessPolicy Administrator Limited Service](https://careers.vermont.gov/job/Waterbury-CDD-ProcessPolicy-Administrator-Limited-Service-VT-05677/1441205000/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-19
@@ -190,38 +178,20 @@ _1331 open listings tracked · 25 new today (9 interesting) · 25 closed today_
 - **[Residential HVAC Installer (Vermont Energy)](https://jobs.sevendaysvt.com/job/construction-trades/vermont-energy-williston-full-time-residential-hvac-installer/)** — Seven Days Jobs (local board) · Williston, Vermont, USA · $30.00 – $50.00 (≈$30–$50/hr) · first seen 2026-10-12
 
 ## ❌ Closed since last run
-- Clinical Dietitian - per diem — UVM Medical Center
-- Nurse Manager - Fanny Allen Ambulatory Surgery Center — UVM Medical Center
-- Clinician- Outpatient (Spoke) — Mental Health Services — Howard Center
-- Judicial Assistant — State of Vermont
-- Office Of Legislative Counsel Legislative Counsel Attorney — State of Vermont
-- Environmental Compliance Manager — University of Vermont
-- Assistant Director for Business Operations — University of Vermont
-- Rural Gerontology, Healthy Aging and Clinical Innovation- Assistant/Associate/Full Professor (Research or Tenure Track) — University of Vermont
-- Digital Health and Clinical Informatics- Assistant/Associate/Full Professor (Research or Tenure Pathway) — University of Vermont
-- Waterfront Dockmaster — City of Burlington
-- Recycle Truck Driver-Temporary — City of Burlington
-- Street Laborer-Temporary — City of Burlington
-- Right of Way Field Technician I — City of Burlington
-- City Assessor — City of Burlington
-- Vacation Camp & After School Program Director — City of Burlington
-- Manufacturing Technician, Electrical Subsystems — Beta Technologies
-- Project Manager — National Life Group
-- Assistant Facilities Manager (First Unitarian Universalist Society of Burlington, VT) — Seven Days Jobs (local board)
-- Sabbatical Director of Faith Development (First Unitarian Universalist Society of Burlington, VT) — Seven Days Jobs (local board)
-- Childcare Provider (First Unitarian Universalist Society of Burlington, VT) — Seven Days Jobs (local board)
-- Residential Program Staff (FortySeven Main, Inc) — Common Good Vermont (nonprofit board)
-- Residential Program Staff (FortySeven Main, Inc) — Common Good Vermont (nonprofit board)
-- Afternoon Infant/Toddler Teacher (Winston Prouty Center for Child and Family Development) — Common Good Vermont (nonprofit board)
-- Manager, Sports (Special Olympics Vermont) — Common Good Vermont (nonprofit board)
-- Stained Glass Workshop Instructor (Waterbury Area MakerSphere Cooperative Inc.) — Common Good Vermont (nonprofit board)
+- Youth Programs Coordinator (Catamount Trail Association) — Seven Days Jobs (local board)
+- Communications and Engagement Manager (Catamount Trail Association) — Seven Days Jobs (local board)
+- Zoning & Compliance Specialist (Town of Colchester) — Seven Days Jobs (local board)
+- Production Generalist I (First Shift) (King Arthur Baking Company) — Seven Days Jobs (local board)
+- Alpine Shop Fashion/Apparel Lead (Alpine Shop) — Seven Days Jobs (local board)
+- Staff Assistant (The Office of U.S. Senator Peter Welch) — Seven Days Jobs (local board)
+- K-5 Program Staff & Lead (King Street Center) — Seven Days Jobs (local board)
+- Customer Care Specialist (Vermont Gas Systems) — Seven Days Jobs (local board)
+- Credit and Collections Specialist (Vermont Gas Systems) — Seven Days Jobs (local board)
+- Energy Services Program Coordinator (Vermont Gas Systems) — Seven Days Jobs (local board)
 
-<details><summary>🗑 Probably skip (1159 open listings that didn't fit)</summary>
+<details><summary>🗑 Probably skip (1150 open listings that didn't fit)</summary>
 
-- [Energy Services Program Coordinator (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/admin-office/vgs-energy-services-program-coordinator/) — Seven Days Jobs (local board) · _healthcare-admin fit_
 - [Youth Basketball Site Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5504225/youth-basketball-site-coordinator) — City of Burlington · _business/admin fit_
-- [Credit and Collections Specialist (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/accounting-finance/vgs-credit-and-collections-specialist/) — Seven Days Jobs (local board) · _business/admin fit_
-- [Customer Care Specialist (Vermont Gas Systems)](https://jobs.sevendaysvt.com/job/customer-service/vgs-customer-care-specialist-2/) — Seven Days Jobs (local board) · _business/admin fit_
 - [Acute Direct Support Professional (Full-Time & Part-Time) — Developmental Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=094cf2a0-9ef6-4db7-a63c-02f9b50073cf) — Howard Center · _title outside target keywords_
 - [Clinical Manager - Adult Crisis Stabilization — Burlington](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=b404085f-c5f9-464e-870e-28444413433a) — Howard Center · _title outside target keywords_
 - [Clinical Manager - INCLUSION TABS — Home, School, and Community Programs](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=546cddc2-2a0a-4f39-997d-57dc1eba2e13) — Howard Center · _title outside target keywords_
@@ -418,6 +388,9 @@ _1331 open listings tracked · 25 new today (9 interesting) · 25 closed today_
 - [Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294) — GlobalFoundries · _role mismatch (engineer)_
 - [Director PostFab Engineering](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Director-PostFab-Engineering_JR-2603526) — GlobalFoundries · _outside commute range (2 Locations)_
 - [EDA Computing / HPC Infrastructure MTS](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/EDA-Computing---HPC-Infrastructure-MTS_JR-2603330) — GlobalFoundries · _outside commute range (2 Locations)_
-- …and 959 more
+- [Engineer - Facilities / Construction Project Management](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Engineer---Facilities---Construction-Project-Management_JR-2606007) — GlobalFoundries · _role mismatch (engineer)_
+- [Engineer - Facilities / Construction Project Management](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Engineer---Facilities---Construction-Project-Management_JR-2606008) — GlobalFoundries · _role mismatch (engineer)_
+- [Engineer - Frame Engineering](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Engineer---Frame-Engineering_JR-2603129) — GlobalFoundries · _outside commute range (2 Locations)_
+- …and 950 more
 
 </details>
