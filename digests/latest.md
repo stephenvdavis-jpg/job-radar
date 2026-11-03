@@ -1,17 +1,18 @@
-# Job radar digest — 2026-11-02
+# Job radar digest — 2026-11-03
 
-_1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
+_1307 open listings tracked · 31 new today (8 interesting) · 29 closed today_
 
 ## 🆕 New since last run
-- **[Community and Belonging Program Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5507547/community-and-belonging-program-manager)** — City of Burlington · Burlington, VT · $81,099.20 - $90,480.00 (≈$39–$44/hr) · first seen 2026-10-07
-- **[Human Resources Generalist](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5526977/human-resources-generalist)** — City of Burlington · Burlington, VT · $69,992.00 - $78,041.60 (≈$34–$38/hr) · first seen 2026-10-24
-- **[Library Assistant I - Volunteer Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5537110/library-assistant-i-volunteer-coordinator)** — City of Burlington · Burlington, VT · $58,406.40 (≈$28/hr) · first seen 2026-11-02
-- **[Water Distribution Operations Lead](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5508236/water-distribution-operations-lead)** — City of Burlington · Burlington, VT · $81,432.00 - $90,833.60 (≈$39–$44/hr) · first seen 2026-10-11
-- **[Materials & Processes Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4457999009)** — Beta Technologies · South Burlington, Vermont, United States · $150,000 — $175,000 (≈$72–$84/hr) · posted 2026-11-02 · first seen 2026-11-02
-- **[Model Maker, Industrial Design](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4474128009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $100,000 (≈$41–$48/hr) · posted 2026-11-02 · first seen 2026-11-02
-- **[Library Assistant I Circulation - PT](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5524323/library-assistant-i-circulation-pt)** — City of Burlington · Burlington, VT · $28.08 (≈$28/hr) · first seen 2026-10-22
+- **[Permanent Supportive Housing Case Manager](https://careers.vermont.gov/job/Waterbury-Permanent-Supportive-Housing-Case-Manager-VT-05677/1447169300/)** — State of Vermont · Waterbury, VT · $ 31.54 (≈$32/hr) · first seen 2026-11-03
+- **[Safety Specialist EH&S](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Safety-Specialist-EH-S_R0091603)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-03
+- **[Data and Reporting Coordinator](https://careers.vermont.gov/job/Waterbury-Data-and-Reporting-Coordinator-VT-05677/1447179200/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-11-03
+- **[Financial Administrator II](https://careers.vermont.gov/job/Colchester-Financial-Administrator-II-VT-05439/1447260200/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-11-03
+- **[Transportation Operations Technician I](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-I-VT-05439/1379162000/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
+- **[Transportation Operations Technician II](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-II-VT-05439/1379162600/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
+- **[Manufacturing Technician, Harness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4473769009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $33 (≈$28–$33/hr) · posted 2026-11-02 · first seen 2026-11-03
+- **[Community Support Liaison](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5537499/community-support-liaison)** — City of Burlington · Burlington, VT · $75,171.20 - $83,824.00 (≈$36–$40/hr) · first seen 2026-11-03
 
-## ⭐ Best matches (25)
+## ⭐ Best matches (26)
 - **[Community and Belonging Program Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5507547/community-and-belonging-program-manager)** — City of Burlington · Burlington, VT · $81,099.20 - $90,480.00 (≈$39–$44/hr) · first seen 2026-10-07
 - **[Care Manager - AAP - Chittenden Clinic — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=86229e3f-bac7-4e0b-a10b-7c5aae6ffcb5)** — Howard Center · Burlington, VT · pay not listed · posted 2026-10-29 · first seen 2026-09-16
 - **[Career Coach - Career Connections — Mental Health Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=87492eab-e6a0-4c76-b6e5-b062ddd2cb9c)** — Howard Center · Burlington, VT · pay not listed · posted 2026-08-26 · first seen 2026-07-30
@@ -26,6 +27,7 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Patient Access (Registration) Specialist - Part Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Access--Registration--Specialist---Part-Time_R0089791)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-09-03
 - **[Patient Access (Registration) Specialist - Part Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Access--Registration--Specialist---Part-Time_R0090938)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-27
 - **[SPD Quality Coordinator](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/SPD-Quality-Coordinator_R0091397)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-27
+- **[Permanent Supportive Housing Case Manager](https://careers.vermont.gov/job/Waterbury-Permanent-Supportive-Housing-Case-Manager-VT-05677/1447169300/)** — State of Vermont · Waterbury, VT · $ 31.54 (≈$32/hr) · first seen 2026-11-03
 - **[Business Operations Coordinator](https://champlain-ibumjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55)** — Champlain College · Burlington, VT, United States · pay not listed · posted 2026-10-27 · first seen 2026-10-27
 - **[Patient Services Representative](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=10c256dd-20f5-4119-9c79-3044c887c4a0&ccId=19000101_000001&lang=en_US&jobId=9201978539691_1)** — Community Health Centers of Burlington · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-07-23
 - **[Practice Manager](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=10c256dd-20f5-4119-9c79-3044c887c4a0&ccId=19000101_000001&lang=en_US&jobId=9202011536167_10)** — Community Health Centers of Burlington · Winooski, VT · pay not listed · posted 2026-10-28 · first seen 2026-10-28
@@ -38,7 +40,7 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[STEM Scholars Program Manager](https://www.uvmjobs.com/postings/88272)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-23 · first seen 2026-09-23
 - **[VCHIP Project Coordinator](https://www.uvmjobs.com/postings/88671)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-10-23
 
-## 👀 Still open, worth a look (136)
+## 👀 Still open, worth a look (140)
 - **[Airport Project Manager, Charge Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4402296009)** — Beta Technologies · South Burlington, Vermont, United States · $115,000 — $135,000 (≈$55–$65/hr) · posted 2026-10-13 · first seen 2026-10-13
 - **[Evening Cleaning Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4309803009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-03 · first seen 2026-09-04
 - **[Global Sourcing Specialist - Systems, Procurement](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4420096009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $120,000 (≈$48–$58/hr) · posted 2026-09-24 · first seen 2026-09-25
@@ -71,6 +73,7 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Operations Support Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Williston-VT/Operations-Support-Specialist_R0090225)** — UVM Medical Center · Williston, VT · pay not listed · first seen 2026-09-16
 - **[Patient Financial Services System Quality Assurance Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Patient-Financial-Services-System-Quality-Assurance-Specialist_R0089555)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-08-21
 - **[Patient Service Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Service-Specialist_R0078667)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-08-19
+- **[Safety Specialist EH&S](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Safety-Specialist-EH-S_R0091603)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-03
 - **[Supervisor Laboratory](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Supervisor-Laboratory_R0091311)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-22
 - **[Transportation Communication Specialist - Care Coordination System](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Transportation-Communication-Specialist---Care-Coordination-System_R0085120)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-08-27
 - **[Director, Global Trade Compliance](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4392365009)** — Beta Technologies · South Burlington, Vermont, United States · $115,000 — $225,000 (≈$55–$108/hr) · posted 2026-09-02 · first seen 2026-09-03
@@ -113,10 +116,13 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Technical Support Specialist (UVM)](https://jobs.sevendaysvt.com/job/it-systems-admin/uvm-technical-support-specialist/)** — Seven Days Jobs (local board) · Burlington, Vermont, United States · pay not listed · first seen 2026-10-14
 - **[Administrative Services Coordinator II](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Coordinator-II-VT-05677/1437206500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-06
 - **[Administrative Services Manager II](https://careers.vermont.gov/job/Waterbury-Administrative-Services-Manager-II-VT-05677/1442237500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-21
-- **[CDD ProcessPolicy Administrator Limited Service](https://careers.vermont.gov/job/Waterbury-CDD-ProcessPolicy-Administrator-Limited-Service-VT-05677/1441205000/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-19
+- **[Data and Reporting Coordinator](https://careers.vermont.gov/job/Waterbury-Data-and-Reporting-Coordinator-VT-05677/1447179200/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-11-03
 - **[Financial Administrator I](https://careers.vermont.gov/job/Waterbury-Financial-Administrator-I-VT-05677/1442361600/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-22
+- **[Financial Administrator II](https://careers.vermont.gov/job/Colchester-Financial-Administrator-II-VT-05439/1447260200/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-11-03
 - **[Grievance Coordinator](https://careers.vermont.gov/job/Waterbury-Grievance-Coordinator-VT-05677/1445019500/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-29
 - **[Recruitment & Retention Supervisor](https://careers.vermont.gov/job/Waterbury-Recruitment-&-Retention-Supervisor-VT-05677/1441894600/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-21
+- **[Transportation Operations Technician I](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-I-VT-05439/1379162000/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
+- **[Transportation Operations Technician II](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-II-VT-05439/1379162600/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-07-29
 - **[Transportation Operations Technician II Temporary](https://careers.vermont.gov/job/Colchester-Transportation-Operations-Technician-II-Temporary-VT-05439/1428442000/)** — State of Vermont · Colchester, VT · pay not listed · first seen 2026-09-10
 - **[VEM Operations Specialist](https://careers.vermont.gov/job/Waterbury-VEM-Operations-Specialist-VT-05677/1445185600/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-10-30
 - **[Network Administrator](https://essexvt.bamboohr.com/careers/178)** — Town of Essex / Essex Junction · Essex Jct, Vermont · pay not listed · first seen 2026-10-24
@@ -126,7 +132,6 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[CAS Admin Coordinator - Chemistry](https://www.uvmjobs.com/postings/88291)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-25 · first seen 2026-09-25
 - **[Executive Communications Specialist](https://www.uvmjobs.com/postings/88316)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-29 · first seen 2026-09-29
 - **[Facilities Contract Administrator](https://www.uvmjobs.com/postings/88286)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-24 · first seen 2026-09-25
-- **[Health Outreach Specialist](https://www.uvmjobs.com/postings/88582)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-14 · first seen 2026-10-15
 - **[INVEST Grant Coordinator](https://www.uvmjobs.com/postings/88478)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-08 · first seen 2026-10-09
 - **[SSVF Intake Coordinator](https://www.uvmjobs.com/postings/88299)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-28 · first seen 2026-09-28
 - **[Solid Waste Recycling Specialist](https://www.uvmjobs.com/postings/86626)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-05-22 · first seen 2026-07-23
@@ -141,12 +146,12 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Construction Project Manager, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4362043009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $100,000 (≈$36–$48/hr) · posted 2026-08-11 · first seen 2026-08-11
 - **[Flight Test Change Management, Configuration Management](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211220009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $125,000 (≈$48–$60/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[IT Helpdesk Support, Digital Ops](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4458509009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $32 (≈$28–$32/hr) · posted 2026-10-19 · first seen 2026-10-20
-- **[Lead Landscaper, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4367146009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $36 (≈$30–$36/hr) · posted 2026-08-12 · first seen 2026-08-13
 - **[Level II Ultrasonic Nondestructive Inspection (NDI) Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211391009)** — Beta Technologies · South Burlington, Vermont, United States · $32 — $42 (≈$32–$42/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[M&P Laboratory Testing Technician, Materials & Processing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211099009)** — Beta Technologies · South Burlington, Vermont, United States · $35 — $40 (≈$35–$40/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Manufacturing Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211088009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-28
 - **[Manufacturing Technician | Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211347009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $34 (≈$28–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Manufacturing Technician – Final Assembly Line](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4424009009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $37 (≈$26–$37/hr) · posted 2026-10-26 · first seen 2026-10-27
+- **[Manufacturing Technician, Harness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4473769009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $33 (≈$28–$33/hr) · posted 2026-11-02 · first seen 2026-11-03
 - **[Manufacturing Technician, Motors](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211160009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Materials & Processes Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4457999009)** — Beta Technologies · South Burlington, Vermont, United States · $150,000 — $175,000 (≈$72–$84/hr) · posted 2026-11-02 · first seen 2026-11-02
 - **[Model Maker, Industrial Design](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4474128009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $100,000 (≈$41–$48/hr) · posted 2026-11-02 · first seen 2026-11-02
@@ -164,6 +169,7 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Supplier Quality Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211304009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $35 (≈$26–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Adult Basketball League Referee](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5535954/adult-basketball-league-referee)** — City of Burlington · Burlington, VT · $30.00 (≈$30/hr) · first seen 2026-11-01
 - **[City Assessor](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5482309/city-assessor)** — City of Burlington · Burlington, VT · $119,993.15 - $134,036.76 (≈$58–$64/hr) · first seen 2026-09-15
+- **[Community Support Liaison](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5537499/community-support-liaison)** — City of Burlington · Burlington, VT · $75,171.20 - $83,824.00 (≈$36–$40/hr) · first seen 2026-11-03
 - **[Executive Manager](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5516198/executive-manager)** — City of Burlington · Burlington, VT · $95,346.08 - $106,431.49 (≈$46–$51/hr) · first seen 2026-10-16
 - **[Library Assistant I Circulation - PT](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5524323/library-assistant-i-circulation-pt)** — City of Burlington · Burlington, VT · $28.08 (≈$28/hr) · first seen 2026-10-22
 - **[Right of Way Field Technician I](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5402063/right-of-way-field-technician-i)** — City of Burlington · Burlington, VT · $58,406.40 - $65,041.60 (≈$28–$31/hr) · first seen 2026-07-23
@@ -177,53 +183,37 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - **[Special Educator (Stern Center)](https://jobs.sevendaysvt.com/job/education/stern-center-70011/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · $56,500 – $60,526 (≈$27–$29/hr) · first seen 2026-10-26
 
 ## ❌ Closed since last run
-- Food Service Worker II - Part-time 20 hours — UVM Medical Center
-- Medical Laboratory Scientist I - Microbiology — UVM Medical Center
-- Medical Lab Technician - Microbiology — UVM Medical Center
-- ENT Clinic Physician Assistant or Nurse Practitioner — UVM Medical Center
-- Registered Nurse - Ambulatory Adult Primary Care — UVM Medical Center
-- Acute Residential Counselor Adult - Next Door — Mental Health Services — Howard Center
-- Based Insurance Examiner In Charge — State of Vermont
+- Registered Nurse - Ambulatory Children's Specialty Center — UVM Medical Center
+- Operations Support Specialist - Berlin Ophthalmology — UVM Medical Center
+- Staff Accountant — UVM Medical Center
+- Registered Nurse - Ambulatory Golisano Children's Hospital Pediatric Urology — UVM Medical Center
+- LNA II — UVM Health Network Home Health & Hospice
+- Junction Transportation Operations Technician II — State of Vermont
+- Junction Transportation Operations Technician I — State of Vermont
+- DPS Vehicle & Equipment Technician — State of Vermont
+- Veterans' Service Officer I — State of Vermont
+- Burlington Military Master Electrician — State of Vermont
+- Procurement Technical Assistance Counselor I — State of Vermont
+- Foster Parent Recruitment & Support Specialist I Temporary — State of Vermont
 - Transportation Operations Technician I — State of Vermont
 - Transportation Operations Technician II — State of Vermont
-- Tax Compliance Officer I — State of Vermont
-- Tax Compliance Officer II — State of Vermont
-- Tax Compliance Officer III — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- Transportation Operations Technician I Temporary — State of Vermont
-- Transportation Operations Technician I Temporary — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- Transportation Operations Technician I Temporary — State of Vermont
-- Montpelier Transportation Operations Technician I Temporary — State of Vermont
-- Montpelier Transportation Operations Technician II Temporary — State of Vermont
-- Transportation Operations Technician I Temporary — State of Vermont
-- Transportation Operations Technician II Temporary — State of Vermont
-- Joint Fiscal Office Transportation Fiscal Analyst — State of Vermont
-- AOE Fiscal Analyst — State of Vermont
-- Jct Outdoor Recreation Specialist II — State of Vermont
-- Jct Outdoor Recreation Specialist III — State of Vermont
-- Agriculture Water Quality Program Coord III Limited Service — State of Vermont
-- Agriculture Water Quality Program Coord II Limited Service — State of Vermont
-- DOC Facility Staff Experience Supervisor — State of Vermont
-- Catamount Educational Farm Production Coordinator — University of Vermont
-- Experiential Learning Program Administrative Coordinator — University of Vermont
-- Asset Management Program Coordinator — City of Burlington
-- Station Operator — City of Burlington
-- Senior Station Operator — City of Burlington
-- Town Clerk & Treasurer — Town of Essex / Essex Junction
-- Integration Engineer, Propulsion — Beta Technologies
-- Engineering Prototype Technician, Motors R&D — Beta Technologies
-- PMTS Portfolio & Technology Roadmap Management - GF Labs — GlobalFoundries
-- Lead Demand Planner (2027 New College Graduate) — GlobalFoundries
-- Director, Commercial Mortgage Originations — National Life Group
-- Life & Annuity Compliance Analyst – Sales Practice Guidance  — National Life Group
-- Contract Change Specialist — National Life Group
-- Contact Center Member Service Associate — EastRise Credit Union
-- Short Order Cook (Meadow Roast Cafe) — Seven Days Jobs (local board)
-- Controller (Building Bright Futures) — Seven Days Jobs (local board)
+- Finance Specialist II — State of Vermont
+- Judicial Assistant — State of Vermont
+- AOT Area Maintenance Supervisor II — State of Vermont
+- CDD ProcessPolicy Administrator Limited Service — State of Vermont
+- HR Business Partner II — State of Vermont
+- HR Business Partner III — State of Vermont
+- CCB Compliance & Enforcement Agent I — State of Vermont
+- Assistant/Associate Professor/Professor Acute Care Surgeon — University of Vermont
+- Health Outreach Specialist — University of Vermont
+- NCUVO Senior Scientific Software Engineer — University of Vermont
+- Assistant/Associate/Professor Generalist Anesthesiologist — University of Vermont
+- Lead Landscaper, Facilities — Beta Technologies
+- Sr. Manager Medical Segment Leader — GlobalFoundries
+- On-Site Manufacturing Operator Hiring Event – October 29th, 2026 — GlobalFoundries
+- Manufacturing Operators - Up To $5,000 Sign-On Bonus! — GlobalFoundries
 
-<details><summary>🗑 Probably skip (1144 open listings that didn't fit)</summary>
+<details><summary>🗑 Probably skip (1141 open listings that didn't fit)</summary>
 
 - [Youth Basketball Site Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5504225/youth-basketball-site-coordinator) — City of Burlington · _business/admin fit_
 - [Acute Direct Support Professional (Full-Time & Part-Time) — Developmental Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=094cf2a0-9ef6-4db7-a63c-02f9b50073cf) — Howard Center · _title outside target keywords_
@@ -342,6 +332,7 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - [Administrative Assistant (Vermont River Conservancy)](https://commongoodvt.org/job/vermont-river-conservancy-6-adiminstrative-assistant-part-time/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Advancement & Communications Coordinator (Manchester Community Library)](https://commongoodvt.org/job/manchester-community-library-6-advancement-communications-coordinator/) — Common Good Vermont (nonprofit board) · _outside commute range (Bennington County, VT)_
 - [Assistant Site Director (Hardwick Area Food Pantry)](https://commongoodvt.org/job/hardwick-area-food-pantry-6-assistant-site-director-hardwick-area-food-pantry/) — Common Good Vermont (nonprofit board) · _outside commute range (Caledonia County, VT)_
+- [Case Manager (Community Asylum Seekers Project (CASP))](https://commongoodvt.org/job/community-asylum-seekers-project-casp-5-case-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Windham County, VT)_
 - [Case Manager (HomeShare Vermont)](https://commongoodvt.org/job/homeshare-vermont-5-homeshare-vermont-case-manager-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Lamoille County, VT)_
 - [Center Coordinator (Vermont Adult Learning)](https://commongoodvt.org/job/vermont-adult-learning-5-center-coordinator-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Addison County, VT)_
 - [Children’s Program Associate (Upper Valley Haven)](https://commongoodvt.org/job/upper-valley-haven-6-childrens-program-associate/) — Common Good Vermont (nonprofit board) · _outside commute range (Windsor County, VT)_
@@ -369,9 +360,11 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - [Family Support Home Visitor (Orange County Parent Child Center)](https://commongoodvt.org/job/orange-county-parent-child-center-5-family-support-home-visitor/) — Common Good Vermont (nonprofit board) · _outside commute range (Orange County, VT)_
 - [Farmer Training Manager (Vermont Youth Conservation Corps)](https://commongoodvt.org/job/vermont-youth-conservation-corps-5-farmer-training-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Chittenden County, VT)_
 - [Field Producer (CCTV Center for Media & Democracy)](https://commongoodvt.org/job/cctv-center-for-media-democracy-6-field-producer-town-meeting-tv-3/) — Common Good Vermont (nonprofit board) · _outside commute range (Chittenden County, VT)_
+- [Finance Manager (Northeast Wilderness Trust)](https://commongoodvt.org/job/northeast-wilderness-trust-5-finance-manager-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Finance and Administration Manager (Artistree Community Arts Center)](https://commongoodvt.org/job/artistree-community-arts-center-6-finance-and-administration-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Windsor County, VT)_
 - [Financial Coordinator (Vermont Network Against Domestic & Sexual Violence)](https://commongoodvt.org/job/vermont-network-against-domestic-sexual-violence-6-financial-coordinator/) — Common Good Vermont (nonprofit board) · _outside commute range (Washington County, VT)_
 - [Grassroots Mobilization and Communications Manager (Standing Trees)](https://commongoodvt.org/job/standing-trees-5-grassroots-mobilization-and-communications-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Vermont (statewide))_
+- [Health Center Manager (Planned Parenthood of Northern New England)](https://commongoodvt.org/job/planned-parenthood-of-northern-new-england-5-health-center-manager-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Windsor County, VT)_
 - [House Manager (L'Arche Southern Vermont)](https://commongoodvt.org/job/larche-southern-vermont-5-house-manager/) — Common Good Vermont (nonprofit board) · _outside commute range (Windham County, VT)_
 - [Just Cut Program Manager (Center for an Agricultural Economy)](https://commongoodvt.org/job/center-for-an-agricultural-economy-5-just-cut-program-manager-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Caledonia County, VT)_
 - [Librarian (Wells Village Library)](https://commongoodvt.org/job/wells-village-library-6-librarian-2/) — Common Good Vermont (nonprofit board) · _outside commute range (Rutland County, VT)_
@@ -422,9 +415,6 @@ _1305 open listings tracked · 36 new today (7 interesting) · 45 closed today_
 - [Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661) — GlobalFoundries · _role mismatch (rn,)_
 - [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639) — GlobalFoundries · _role mismatch (rn,)_
 - [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604665) — GlobalFoundries · _role mismatch (rn,)_
-- [Advanced Packaging Cryogenic Modeling Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Advanced-Packaging-Cryogenic-Modeling-Engineer_JR-2601407) — GlobalFoundries · _outside commute range (2 Locations)_
-- [Advanced Packaging Process Integration Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Advanced-Packaging-Process-Integration-Engineer_JR-2601204) — GlobalFoundries · _role mismatch (engineer)_
-- [Associate Maintenance Technician Apprenticeship (Days)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Associate-Maintenance-Technician-Apprenticeship--Days-_JR-2605455) — GlobalFoundries · _role mismatch (maintenance)_
-- …and 944 more
+- …and 941 more
 
 </details>
