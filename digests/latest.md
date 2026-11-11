@@ -1,15 +1,17 @@
-# Job radar digest — 2026-11-10
+# Job radar digest — 2026-11-11
 
-_1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
+_1306 open listings tracked · 26 new today (7 interesting) · 24 closed today_
 
 ## 🆕 New since last run
-- **[Care Coordinator - ARCh Program — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=5c4604cc-8926-4682-a79d-fb97e69fc1e0)** — Howard Center · Burlington, VT · pay not listed · posted 2026-11-10 · first seen 2026-11-10
-- **[Arts & Life Program Manager](https://www.uvmjobs.com/postings/88911)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-10 · first seen 2026-11-10
-- **[Network Administrator (Town of Essex)](https://jobs.sevendaysvt.com/job/it-systems-admin/essex-network-administrator/)** — Seven Days Jobs (local board) · Essex, Vermont, USA · pay not listed · first seen 2026-11-10
-- **[Eligibility Specialist I Interim](https://careers.vermont.gov/job/Waterbury-Eligibility-Specialist-I-Interim-VT-05677/1449336000/)** — State of Vermont · Waterbury, VT · pay not listed · first seen 2026-11-10
-- **[Lead Financial Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Lead-Financial-Specialist_R0091602)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-11-10
+- **[Emergency Response Supervisor (1st Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Emergency-Response-Supervisor_JR-2606253)** — GlobalFoundries · Essex Junction · $69,000.00 - $120,000.00 (≈$33–$58/hr) · first seen 2026-11-11
+- **[Emergency Response Supervisor (2nd Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Emergency-Response-Supervisor--2nd-Shift-_JR-2606254)** — GlobalFoundries · Essex Junction · $69,000.00 - $120,000.00 (≈$33–$58/hr) · first seen 2026-11-11
+- **[Patient Service Specialist - Infusion Center](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/PSS_R0091724)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-11
+- **[Patient Service Specialist - South Burlington Family Medicine - Full Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Patient-Service-Specialist---South-Burlington-Family-Medicine---Full-Time_R0090015)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-11-11
+- **[Asst Dir - Communications Operations & Data](https://www.uvmjobs.com/postings/88929)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-11 · first seen 2026-11-11
+- **[Operations Administrator](https://www.uvmjobs.com/postings/88924)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-11 · first seen 2026-11-11
+- **[City Center & Cemeteries Lead](https://www.governmentjobs.com/careers/southburlington/jobs/5546912/city-center-cemeteries-lead)** — City of South Burlington · South Burlington, VT · $61,401.60 - $65,166.40 (≈$30–$31/hr) · first seen 2026-11-11
 
-## ⭐ Best matches (21)
+## ⭐ Best matches (23)
 - **[Care Manager - AAP - Chittenden Clinic — Substance Use Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=86229e3f-bac7-4e0b-a10b-7c5aae6ffcb5)** — Howard Center · Burlington, VT · pay not listed · posted 2026-10-29 · first seen 2026-09-16
 - **[Career Coach - Career Connections — Mental Health Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=87492eab-e6a0-4c76-b6e5-b062ddd2cb9c)** — Howard Center · Burlington, VT · pay not listed · posted 2026-11-04 · first seen 2026-07-30
 - **[Clinical Manager - Adult Intensive Services — Mental Health Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=25bc64a7-08f1-46b1-8f4c-7858a6f373e3)** — Howard Center · Burlington, VT · pay not listed · posted 2026-09-28 · first seen 2026-09-28
@@ -19,6 +21,8 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Patient Access (Registration) Specialist - Part Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Access--Registration--Specialist---Part-Time_R0089791)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-09-03
 - **[Patient Access (Registration) Specialist - Part Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Access--Registration--Specialist---Part-Time_R0090938)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-27
 - **[SPD Quality Coordinator](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/SPD-Quality-Coordinator_R0091397)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-27
+- **[Emergency Response Supervisor (1st Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Emergency-Response-Supervisor_JR-2606253)** — GlobalFoundries · Essex Junction · $69,000.00 - $120,000.00 (≈$33–$58/hr) · first seen 2026-11-11
+- **[Emergency Response Supervisor (2nd Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Emergency-Response-Supervisor--2nd-Shift-_JR-2606254)** — GlobalFoundries · Essex Junction · $69,000.00 - $120,000.00 (≈$33–$58/hr) · first seen 2026-11-11
 - **[Emergency Medical Services State Training Administrator](https://careers.vermont.gov/job/Waterbury-Emergency-Medical-Services-State-Training-Administrator-VT-05677/1401642800/)** — State of Vermont · Waterbury, VT · $31.54 (≈$32/hr) · first seen 2026-11-09
 - **[Permanent Supportive Housing Case Manager](https://careers.vermont.gov/job/Waterbury-Permanent-Supportive-Housing-Case-Manager-VT-05677/1447169300/)** — State of Vermont · Waterbury, VT · $ 31.54 (≈$32/hr) · first seen 2026-11-03
 - **[Business Operations Coordinator](https://champlain-ibumjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55)** — Champlain College · Burlington, VT, United States · pay not listed · posted 2026-10-27 · first seen 2026-10-27
@@ -32,7 +36,7 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Arts & Life Program Manager](https://www.uvmjobs.com/postings/88911)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-10 · first seen 2026-11-10
 - **[VCHIP Project Coordinator](https://www.uvmjobs.com/postings/88671)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-10-23 · first seen 2026-10-23
 
-## 👀 Still open, worth a look (133)
+## 👀 Still open, worth a look (136)
 - **[Aerospace Manufacturing Standards Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4485396009)** — Beta Technologies · South Burlington, Vermont, United States · $100,000 — $125,000 (≈$48–$60/hr) · posted 2026-11-09 · first seen 2026-11-09
 - **[Airport Project Manager, Charge Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4402296009)** — Beta Technologies · South Burlington, Vermont, United States · $115,000 — $135,000 (≈$55–$65/hr) · posted 2026-10-13 · first seen 2026-10-13
 - **[Evening Cleaning Specialist](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4309803009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $30 (≈$26–$30/hr) · posted 2026-09-03 · first seen 2026-09-04
@@ -63,7 +67,9 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Clinical Research Coordinator - Trauma and Critical Care](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Clinical-Research-Coord-I---Trauma-and-Critical-Care_R0085079)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-07-23
 - **[Inventory/Compliance Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Inventory-Compliance-Specialist_R0089542)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-08-24
 - **[Patient Financial Services System Quality Assurance Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Patient-Financial-Services-System-Quality-Assurance-Specialist_R0089555)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-08-21
+- **[Patient Service Specialist - Infusion Center](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/PSS_R0091724)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-11
 - **[Patient Service Specialist - Psychological Services - Full Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Patient-Service-Specialist---Psychological-Services---Full-Time_R0090959-1)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-07
+- **[Patient Service Specialist - South Burlington Family Medicine - Full Time](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Patient-Service-Specialist---South-Burlington-Family-Medicine---Full-Time_R0090015)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-11-11
 - **[Safety Specialist EH&S](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Safety-Specialist-EH-S_R0091603)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-03
 - **[Scheduling Specialist II](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Scheduling-Specialist-II_R0091537)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-11-05
 - **[Transportation Communication Specialist - Care Coordination System](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Transportation-Communication-Specialist---Care-Coordination-System_R0085120)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-08-27
@@ -96,7 +102,6 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Payroll & Benefits Specialist (evernorth)](https://jobs.sevendaysvt.com/job/accounting-finance/evernorth-payroll-benefits-specialist/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · pay not listed · first seen 2026-10-06
 - **[Payroll Coordinator (Champlain Valley Office of Economic Opportunity)](https://jobs.sevendaysvt.com/job/admin-office/champlain-valley-office-of-economic-opportunity-burlington-full-time-payroll-coordinator/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · pay not listed · first seen 2026-09-28
 - **[Procurement Administrator (United States District Court)](https://jobs.sevendaysvt.com/job/legal-government/usdc-procurement-administrator/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · pay not listed · first seen 2026-10-23
-- **[Production & Fulfillment Specialist (Flamsted)](https://jobs.sevendaysvt.com/job/manufacturing/flamsted-production-fulfillment-specialist/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · pay not listed · first seen 2026-09-22
 - **[Refractive Coordinator (Vermont Eye Laser)](https://jobs.sevendaysvt.com/job/healthcare/vermont-eye-laser-south-burlington-full-time-refractive-coordinator/)** — Seven Days Jobs (local board) · South Burlington, Vermont, USA · pay not listed · first seen 2026-09-28
 - **[Service Coordinator (Champlain Community Services)](https://jobs.sevendaysvt.com/job/nonprofit/ccs-service-coordinator-3/)** — Seven Days Jobs (local board) · Colchester, Vermont, USA · pay not listed · first seen 2026-10-06
 - **[Systems Administrator – Client Technical Services (PCC)](https://jobs.sevendaysvt.com/job/healthcare/pcc-systems-administrator-client-technical-services-3/)** — Seven Days Jobs (local board) · Winooski, Vermont, USA · pay not listed · first seen 2026-10-06
@@ -117,10 +122,11 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Network Administrator](https://essexvt.bamboohr.com/careers/178)** — Town of Essex / Essex Junction · Essex Jct, Vermont · pay not listed · first seen 2026-10-24
 - **[Environmental Services Supervisor](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/Burlington-VT/Environmental-Services-Supervisor_R0091174)** — UVM Medical Center · Burlington, VT · pay not listed · first seen 2026-10-19
 - **[Lead Financial Specialist](https://uvmhealth.wd1.myworkdayjobs.com/EXTERNAL/job/South-Burlington-VT/Lead-Financial-Specialist_R0091602)** — UVM Medical Center · South Burlington, VT · pay not listed · first seen 2026-11-10
+- **[Asst Dir - Communications Operations & Data](https://www.uvmjobs.com/postings/88929)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-11 · first seen 2026-11-11
 - **[Building Tradesperson Specialist](https://www.uvmjobs.com/postings/87867)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-08-27 · first seen 2026-08-27
 - **[Business Systems Analyst](https://www.uvmjobs.com/postings/88839)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-04 · first seen 2026-11-05
 - **[CAS Admin Coordinator - Chemistry](https://www.uvmjobs.com/postings/88291)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-25 · first seen 2026-09-25
-- **[Executive Communications Specialist](https://www.uvmjobs.com/postings/88316)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-29 · first seen 2026-09-29
+- **[Operations Administrator](https://www.uvmjobs.com/postings/88924)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-11-11 · first seen 2026-11-11
 - **[SSVF Intake Coordinator](https://www.uvmjobs.com/postings/88299)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-28 · first seen 2026-09-28
 - **[Solid Waste Recycling Specialist](https://www.uvmjobs.com/postings/86626)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-05-22 · first seen 2026-07-23
 - **[Supportive Services for Veteran Families Program Assistant](https://www.uvmjobs.com/postings/88348)** — University of Vermont · Burlington, VT · pay not listed · posted 2026-09-30 · first seen 2026-09-30
@@ -135,13 +141,13 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Construction Project Manager, Facilities](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4362043009)** — Beta Technologies · South Burlington, Vermont, United States · $75,000 — $100,000 (≈$36–$48/hr) · posted 2026-08-11 · first seen 2026-08-11
 - **[IT Helpdesk Support, Digital Ops](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4458509009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $32 (≈$28–$32/hr) · posted 2026-10-19 · first seen 2026-10-20
 - **[Level II Ultrasonic Nondestructive Inspection (NDI) Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211391009)** — Beta Technologies · South Burlington, Vermont, United States · $32 — $42 (≈$32–$42/hr) · posted 2026-04-08 · first seen 2026-07-23
-- **[M&P Laboratory Testing Technician, Materials & Processing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211099009)** — Beta Technologies · South Burlington, Vermont, United States · $35 — $40 (≈$35–$40/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Manufacturing Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211088009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-28
 - **[Manufacturing Technician | Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211347009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $34 (≈$28–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
 - **[Manufacturing Technician – Final Assembly Line](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4424009009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $37 (≈$26–$37/hr) · posted 2026-10-26 · first seen 2026-10-27
 - **[Manufacturing Technician, Harness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4473769009)** — Beta Technologies · South Burlington, Vermont, United States · $28 — $33 (≈$28–$33/hr) · posted 2026-11-02 · first seen 2026-11-03
 - **[Manufacturing Technician, Motors](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211160009)** — Beta Technologies · South Burlington, Vermont, United States · $26 — $34 (≈$26–$34/hr) · posted 2026-04-08 · first seen 2026-07-23
-- **[Materials & Processes Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4457999009)** — Beta Technologies · South Burlington, Vermont, United States · $150,000 — $175,000 (≈$72–$84/hr) · posted 2026-11-02 · first seen 2026-11-02
+- **[Materials and Processes Laboratory Testing Technician](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211099009)** — Beta Technologies · South Burlington, Vermont, United States · $35 — $40 (≈$35–$40/hr) · posted 2026-04-08 · first seen 2026-07-23
+- **[Materials and Processes Lead](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4457999009)** — Beta Technologies · South Burlington, Vermont, United States · $150,000 — $175,000 (≈$72–$84/hr) · posted 2026-11-02 · first seen 2026-11-02
 - **[Model Maker, Industrial Design](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4474128009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $100,000 (≈$41–$48/hr) · posted 2026-11-02 · first seen 2026-11-02
 - **[Multi-Site Planner, Ground Support Equipment](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4438988009)** — Beta Technologies · South Burlington, Vermont, United States · $85,000 — $95,000 (≈$41–$46/hr) · posted 2026-10-09 · first seen 2026-10-09
 - **[Part Time Fixed Wing Certified Flight Instructor](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211389009)** — Beta Technologies · South Burlington, Vermont, United States · $30 — $35 (≈$30–$35/hr) · posted 2026-04-08 · first seen 2026-07-23
@@ -161,6 +167,7 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Right of Way Field Technician I](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5402063/right-of-way-field-technician-i)** — City of Burlington · Burlington, VT · $58,406.40 - $65,041.60 (≈$28–$31/hr) · first seen 2026-07-23
 - **[Trusted Community Voices Liaison](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5505746/trusted-community-voices-liaison)** — City of Burlington · Burlington, VT · $30.00 (≈$30/hr) · first seen 2026-10-07
 - **[Water Distribution Field Technician](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5524442/water-distribution-field-technician)** — City of Burlington · Burlington, VT · $61,963.20 - $69,056.00 (≈$30–$33/hr) · first seen 2026-10-22
+- **[City Center & Cemeteries Lead](https://www.governmentjobs.com/careers/southburlington/jobs/5546912/city-center-cemeteries-lead)** — City of South Burlington · South Burlington, VT · $61,401.60 - $65,166.40 (≈$30–$31/hr) · first seen 2026-11-11
 - **[Manager, Infrastructure and Security](https://apply.workable.com/j/17CDF4A2FD)** — OnLogic · South Burlington, Vermont · $170,000 to $200,000 (≈$82–$96/hr) · posted 2026-01-09 · first seen 2026-07-23
 - **[Sales Project Manager](https://apply.workable.com/j/6EE3237B2B)** — OnLogic · South Burlington, Vermont · $90,000 to $110,000 (≈$43–$53/hr) · posted 2026-09-30 · first seen 2026-08-15
 - **[Strategic Buyer](https://apply.workable.com/j/81F3970629)** — OnLogic · South Burlington, Vermont · $110,000 to $140,000 (≈$53–$67/hr) · posted 2026-11-06 · first seen 2026-07-23
@@ -168,29 +175,32 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - **[Special Educator (Stern Center)](https://jobs.sevendaysvt.com/job/education/stern-center-70011/)** — Seven Days Jobs (local board) · Burlington, Vermont, USA · $56,500 – $60,526 (≈$27–$29/hr) · first seen 2026-10-26
 
 ## ❌ Closed since last run
-- Surgical Tech - Labor & Delivery — UVM Medical Center
-- Sterile Processing Department Manager — UVM Medical Center
-- Licensed Nurse Assistant - McClure 6 - General Medicine — UVM Medical Center
-- Registered Nurse - Ambulatory - Part Time — UVM Medical Center
-- Pulmonary Function Technologist II — UVM Medical Center
-- LPN - Adult Home Care - Per Diem — UVM Health Network Home Health & Hospice
-- Senior Care Manager - Adult Intensive Services — Mental Health Services — Howard Center
-- Access Specialist — Substance Use Services — Howard Center
-- Director of Finance & Economics — State of Vermont
-- Resource Coordinator — State of Vermont
-- VDOL Facility Operations Specialist — State of Vermont
-- BGS Security Officer Temporary — State of Vermont
-- Strategic Communicator — University of Vermont
-- Dispatcher — University of Vermont
-- Custodial Specialist — University of Vermont
-- Assistant/Associate/Professor, Clinical Scholar Pathway - General Neurology (CVMC) — University of Vermont
-- Stroke Neurologist - Assistant/Associate/Professor, Clinical Scholar Pathway — University of Vermont
-- Technician Facilities - Central Utility Plant (1st Shift) — GlobalFoundries
-- MTS Product Engineer/ Product Management - Global Tapeout and Mask Organization — GlobalFoundries
-- Technician - Ion Implant Workshop - MES — GlobalFoundries
-- Relationship Manager — National Life Group
+- Medical Assistant II - Hematology/Oncology — UVM Medical Center
+- Crisis Clinician - First Call for Chittenden County — Home, School, and Community Programs — Howard Center
+- Acute Residential Counselor Youth - Park Street - Overnight — Park Street Program — Howard Center
+- Executive Communications Specialist — University of Vermont
+- Team Lead, Award Acceptance, Setup and Outgoing Subawards — University of Vermont
+- Assistant Professor of Psychological Science: Clinical Psychologist — University of Vermont
+- Vacation Camp Program Teacher — City of Burlington
+- Parks Arena Maintenance Specialist — City of Burlington
+- Winter Program Director - Bolton Ski & Ride — City of Burlington
+- Software Engineer, Flight Controls — Beta Technologies
+- Information Systems Security Officer (ISSO), Information Security — Beta Technologies
+- Metrology/CFM Equipment Engineering Intern (Summer 2027) — GlobalFoundries
+- SMTS Product Manager - Global Tapeout and Mask Organization — GlobalFoundries
+- Senior Associate, Direct Lending — National Life Group
+- Sr. Relationship Manager — National Life Group
+- Radiation Therapist Radiation Oncology $15,000 SIGN ON BONUS ELIGIBLE (Dartmouth Health) — Seven Days Jobs (local board)
+- Cleaner (OnLogic) — Seven Days Jobs (local board)
+- Production & Fulfillment Specialist (Flamsted) — Seven Days Jobs (local board)
+- Senior Consumer Services Associate (Ben &amp; Jerry&#039;s) — Seven Days Jobs (local board)
+- Camp Programs Manager (Outright) — Seven Days Jobs (local board)
+- Water Utility Technician (Champlain Water District) — Seven Days Jobs (local board)
+- Facilities Manager (Center for an Agricultural Economy (CAE)) — Seven Days Jobs (local board)
+- Assistant to the Sergeant at Arms (Vermont General Assembly) — Seven Days Jobs (local board)
+- Executive Director (Vermont Huts &amp; Trails) — Seven Days Jobs (local board)
 
-<details><summary>🗑 Probably skip (1150 open listings that didn't fit)</summary>
+<details><summary>🗑 Probably skip (1147 open listings that didn't fit)</summary>
 
 - [Youth Basketball Site Coordinator](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5504225/youth-basketball-site-coordinator) — City of Burlington · _business/admin fit_
 - [Acute Direct Support Professional (Full-Time & Part-Time) — Developmental Services](https://howardcenter.rec.pro.ukg.net/HOW1500HCTR/JobBoard/ec05cf26-3cd7-4c1c-a247-d472b3d6ba3b/OpportunityDetail?opportunityId=094cf2a0-9ef6-4db7-a63c-02f9b50073cf) — Howard Center · _title outside target keywords_
@@ -218,23 +228,23 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - [Composites Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425504009) — Beta Technologies · _role mismatch (engineer)_
 - [Composites Tooling Engineer, Manufacturing Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4396126009) — Beta Technologies · _role mismatch (engineer)_
 - [Computational Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425518009) — Beta Technologies · _role mismatch (engineer)_
-- [Configuration & Release Engineer - Configuration Management](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419983009) — Beta Technologies · _role mismatch (engineer)_
+- [Configuration & Release Engineer, Configuration Management](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419983009) — Beta Technologies · _role mismatch (engineer)_
 - [Data Platform Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4410036009) — Beta Technologies · _role mismatch (engineer)_
-- [Design Engineer, Structure Integration, NPI Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211074009) — Beta Technologies · _role mismatch (engineer)_
+- [Design Engineer, Aircraft Integration](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211074009) — Beta Technologies · _role mismatch (engineer)_
 - [Director of Supplier Quality](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4418953009) — Beta Technologies · _title outside target keywords_
 - [Electrical Engineer, Airborne Hardware](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211250009) — Beta Technologies · _role mismatch (engineer)_
 - [Embedded Software Engineer, Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211400009) — Beta Technologies · _role mismatch (software)_
 - [Engineering Change Planner, Production Planning](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211154009) — Beta Technologies · _role mismatch (engineer)_
 - [Flight Instruments Project Engineer, Systems](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211278009) — Beta Technologies · _role mismatch (engineer)_
-- [Information Systems Security Officer (ISSO), Information Security](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4404048009) — Beta Technologies · _role mismatch (security officer)_
 - [Lead Electrical Engineer - Low Voltage, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4458068009) — Beta Technologies · _role mismatch (engineer)_
 - [Lead Electrical Engineer, Low Voltage System](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4281172009) — Beta Technologies · _role mismatch (engineer)_
 - [Lead Embedded Software Engineer, Airborne Software](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4411529009) — Beta Technologies · _role mismatch (software)_
 - [Lead Telemetry System Engineer, Low Voltage](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4475782009) — Beta Technologies · _role mismatch (engineer)_
-- [MRB Liaison Engineer, Production Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211164009) — Beta Technologies · _role mismatch (engineer)_
+- [MRB Liaison Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211164009) — Beta Technologies · _role mismatch (engineer)_
 - [MRB Stress Engineer, Production Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211032009) — Beta Technologies · _role mismatch (engineer)_
 - [Manufacturing Engineer, Final Assembly Line](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4419955009) — Beta Technologies · _role mismatch (engineer)_
 - [Manufacturing Engineer, Structural Assembly](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211359009) — Beta Technologies · _role mismatch (engineer)_
+- [Materials and Processes Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321491009) — Beta Technologies · _role mismatch (engineer)_
 - [Materials and Processes Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321510009) — Beta Technologies · _role mismatch (engineer)_
 - [Mechanical Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425526009) — Beta Technologies · _role mismatch (engineer)_
 - [Mechanical Design Engineer, Production Tooling](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211341009) — Beta Technologies · _role mismatch (engineer)_
@@ -247,7 +257,6 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - [Project Engineer, Propulsion](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439230009) — Beta Technologies · _role mismatch (engineer)_
 - [Propulsion Certification Engineer, Airworthiness](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211302009) — Beta Technologies · _role mismatch (engineer)_
 - [R&D Manufacturing Engineering Lead, Composites Manufacturing](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4310234009) — Beta Technologies · _role mismatch (engineer)_
-- [R&D Materials and Processes Engineer](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4321491009) — Beta Technologies · _role mismatch (engineer)_
 - [Reliability Modeling Engineer, In-Service Engineering](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4485340009) — Beta Technologies · _role mismatch (engineer)_
 - [Senior AI Systems Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429157009) — Beta Technologies · _role mismatch (engineer)_
 - [Senior Composites Design Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425506009) — Beta Technologies · _role mismatch (engineer)_
@@ -265,7 +274,6 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - [Software Engineer - Customer Products, Digital Ops](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4465184009) — Beta Technologies · _role mismatch (software)_
 - [Software Engineer, Composites](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4433862009) — Beta Technologies · _role mismatch (software)_
 - [Software Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4329819009) — Beta Technologies · _role mismatch (software)_
-- [Software Engineer, Flight Controls](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4227381009) — Beta Technologies · _role mismatch (software)_
 - [Stability and Controls Engineer, Flight Sciences](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4429907009) — Beta Technologies · _role mismatch (engineer)_
 - [Stress Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425495009) — Beta Technologies · _role mismatch (engineer)_
 - [Structural Dynamics Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425510009) — Beta Technologies · _role mismatch (engineer)_
@@ -289,11 +297,9 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - [CSM Temporary Maintenance Worker](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5496189/csm-temporary-maintenance-worker) — City of Burlington · _role mismatch (maintenance)_
 - [Crossing Guard](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5437042/crossing-guard) — City of Burlington · _title outside target keywords_
 - [Fleet Maintenance Technician](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician) — City of Burlington · _role mismatch (maintenance)_
-- [Parks Arena Maintenance Specialist](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5526826/parks-arena-maintenance-specialist) — City of Burlington · _role mismatch (maintenance)_
 - [Police Officer](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5396206/police-officer) — City of Burlington · _role mismatch (police)_
 - [Recycle Truck Driver-Temporary](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401961/recycle-truck-driver-temporary) — City of Burlington · _role mismatch (driver)_
 - [Street Laborer-Temporary](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401969/street-laborer-temporary) — City of Burlington · _title outside target keywords_
-- [Vacation Camp Program Teacher](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5485944/vacation-camp-program-teacher) — City of Burlington · _title outside target keywords_
 - [Winter & Spring Maintenance Project Lead](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5539584/winter-spring-maintenance-project-lead) — City of Burlington · _role mismatch (maintenance)_
 - [Winter Program Counselor - Bolton Ski & Ride](https://www.governmentjobs.com/careers/burlingtonvt/jobs/5533038/winter-program-counselor-bolton-ski-ride) — City of Burlington · _title outside target keywords_
 - [Deputy Director of Capital Projects](https://www.governmentjobs.com/careers/southburlington/jobs/5526854/deputy-director-of-capital-projects) — City of South Burlington · _title outside target keywords_
@@ -392,6 +398,10 @@ _1304 open listings tracked · 40 new today (5 interesting) · 21 closed today_
 - [Commercial Agreements Legal Intern (2027 Summer)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) — GlobalFoundries · _role mismatch (intern)_
 - [Controls Engineering Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) — GlobalFoundries · _role mismatch (engineer)_
 - [DMTS SiPh Packaging & Assembly Materials](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/DMTS-SiPh-Packaging---Assembly-Materials_JR-2603372-1) — GlobalFoundries · _outside commute range (2 Locations)_
-- …and 950 more
+- [Demand and Revenue Planning Transformation and Technology Lead](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/Demand-and-Revenue-Planning-Transformation-and-Technology-Lead_JR-2605981) — GlobalFoundries · _outside commute range (4 Locations)_
+- [Design Application Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/OFFSITE---USA---California/Design-Application-Engineering_JR-2605655) — GlobalFoundries · _outside commute range (4 Locations)_
+- [Design Application Engineering](https://globalfoundries.wd1.myworkdayjobs.com/External/job/OFFSITE---USA---California/Design-Application-Engineering_JR-2605382) — GlobalFoundries · _outside commute range (4 Locations)_
+- [Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294) — GlobalFoundries · _role mismatch (engineer)_
+- …and 947 more
 
 </details>
